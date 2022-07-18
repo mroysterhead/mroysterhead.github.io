@@ -23,7 +23,7 @@ resume_contact_address:         "742 Evergreen Terrace, Springfield"
 resume_header_contact_info:     "742 Evergreen Terrace, Springfield • 555-7334 • lisasimpson@youremailaddress.com"
 display_header_contact_info:    "false"
 
-resume_header_intro: "<p>Over ten years of information systems operations experience, including administration of: architecture, build, configuration, security, and documentation with excellent trouble-shooting skills. Performing and directing the planning, design, installation and on-going administration of corporate computer systems, local area networks and software. Experienced DevOps Engineer who understands the melding of operations and development to quickly deliver code to customers. Developing and documenting corporate business continuity and disaster recovery plans and procedures.</p>"
+resume_header_intro: "<p>This is the executive summary. You should write a few brief, concise, and meaningful sentences about yourself from a professional context, and your immediate career goals. Make the length appropriate for your needs, but keep it brief and concise</p>"
 
 # use "yes" to display the email contact button,
 # "no" to display an "I'm not looking for work" message,
