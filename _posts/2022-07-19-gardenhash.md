@@ -2,9 +2,9 @@
 layout: post
 title: Garden Hash
 subtitle: Quick and Easy with stuff from the garden
-cover-img: /assets/img/gardenhash.jpg
-thumbnail-img: /assets/img/thumb.png
-share-img: /assets/img/gardenhash.jpg
+cover-img: /assets/img/bed.jpg
+thumbnail-img: /assets/img/gardenhash.jpg
+share-img: /assets/img/bed.jpg
 tags: [garden, lunch, quick]
 ---
 
