@@ -6,17 +6,17 @@
 # --- Required options --- #
 
 # Name of website
-title: Tim
+title: tim lawrence
 
 # Your name to show in the footer
-author: Tim Lawrence
+author: tim
 
 # --- List of links in the navigation bar --- #
 
 navbar-links:
   About Me: "introduction i guess"
   stuff:
-    - cook: "timlawrence.org/food"
+    - cook: "food"
     - grow: "https://docs.google.com/spreadsheets/d/1sizrD5QfneaPUR6GV_inVcSkbYzi7tQzcCRjsayNlGM/edit?usp=sharing"
   Author's home: "timlawrence.org"
 
@@ -88,7 +88,7 @@ url-pretty: "TimLawrence.org"
 excerpt_length: 50
 
 # Whether or not to show an excerpt for every blog post in the feed page
-feed_show_excerpt: false
+feed_show_excerpt: true
 
 # Whether or not to show a list of tags below each post preview in the feed page
 feed_show_tags: false
