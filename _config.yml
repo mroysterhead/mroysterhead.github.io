@@ -6,19 +6,19 @@
 # --- Required options --- #
 
 # Name of website
-title: tim lawrence
+title: tim
 
 # Your name to show in the footer
-author: tim
+author: tim lawrence
 
 # --- List of links in the navigation bar --- #
 
 navbar-links:
   About Me: "introduction i guess"
   stuff:
-    - cook: "food"
+    - cook: "https://www.timlawrence.org/food"
     - grow: "https://docs.google.com/spreadsheets/d/1sizrD5QfneaPUR6GV_inVcSkbYzi7tQzcCRjsayNlGM/edit?usp=sharing"
-  Author's home: "timlawrence.org"
+  Author's home: "https://timlawrence.org"
 
 # --- Logo --- #
 
