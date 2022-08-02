@@ -8,6 +8,8 @@ thumbnail-img: assets/img/gardenhash.jpg
 tags: [food, lunch, dinner, hash, quick and easy]
 comments: true
 --- 
+![gardenhash](https://mroysterhead.github.io/assets/img/gardenhash.jpg){: .mx-auto.d-block :}
+
 ## Ingredients
 ```
   - potato 
