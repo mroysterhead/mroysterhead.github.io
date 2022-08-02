@@ -4,7 +4,7 @@ title: Garden Hash
 subtitle: Quick Dish from the Garden
 #gh-repo: daattali/beautiful-jekyll
 #gh-badge: [star, fork, follow]
-thumbnail-img: assets\img\gardenhash.jpg
+thumbnail-img: assets/img/gardenhash.jpg
 tags: [food, lunch, dinner, hash, quick and easy]
 comments: true
 --- 
