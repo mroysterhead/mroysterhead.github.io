@@ -100,6 +100,7 @@ Provide technical expertise in RedHat and Windows operating systems in a secure 
 - Planned, Proposed, and Implemented monitoring across the company for all Data Centers and systems.
 
 - Provided tier 1 troubleshooting support for Linux, Windows, Java, and networking issues.
+
 ___
 
 ## ZOOMINFO
