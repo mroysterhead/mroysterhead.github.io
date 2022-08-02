@@ -39,7 +39,7 @@ comments: true
 
 ## Procedure
 
-  ### Red Sauce
+### Red Sauce
 
 > - melt a pad of butter, add a drop of evoo over the butter
 > - add diced onion + salt to the oil. Do not let brown or burn
