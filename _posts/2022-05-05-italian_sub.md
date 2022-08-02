@@ -47,29 +47,17 @@ comments: true
 ## Procedure
 
   >- Butterfly slice the roll leaving one side still intact
-
   >- bore out some of the bread, making a trench 
-
   >- fold or roll then layer the deli meats on the bottom
-
   >- layer the cheese over the meats
-
   >- Extremely thinly slice the lettuce, use a mandoline slicer if you have one or possibly even a food processor on the slice setting. 
-
   >- Thinly slice \ julienne onion
-
   >- fine chop the Pepperoncinis and pickles
-
   >- dice tomato or roasted pepper
-
   >- drizzle with olive oil and then with just enough vinegar to coat. You don’t have to measure it but aim for around a 3:1 ratio
-
   >- add all the seasoning with a big pinch of salt and black pepper
-
   >- Toss everything together to make a salad/slaw
-
   >- Stuff the salad mixture into the sub roll. 
-  
   >- press the sub closed and wrap it with foil or paper. 
 
 ---
