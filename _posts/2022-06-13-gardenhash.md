@@ -32,7 +32,7 @@ comments: true
   >- Protip: totally optional but a light dusting of corn starch will make the tots extra crispy. 
   >- Slowly just add everything into the pan, tossing as you go. 
   >- The egg goes last. Just kidding, the cheese does, if you are adding it. Just kidding, the chives do, if you are adding it.
-  >- After you add the egg, let it sit for a bit and form a bit. Give the pan a wiggle to spread out more. This comes down to preference but I don’t like my eggs to feel like baby food. You can also whisk them like a scramble. It’s up to you, I’m not the boss of you, follow your heart.>- 
+  >- After you add the egg, let it sit for a bit and form a bit. Give the pan a wiggle to spread out more. This comes down to preference but I don’t like my eggs to feel like baby food. You can also whisk them like a scramble. It’s up to you, I’m not the boss of you, follow your heart.
 
 
 --- 
