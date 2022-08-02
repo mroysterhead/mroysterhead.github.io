@@ -9,18 +9,18 @@ tags: [food, lunch, dinner, hash, quick and easy]
 comments: true
 --- 
 ## Ingredients
-```
-  - potato 
-  - onion or shallot or leek 
-  - garlic, bulbs or scapes 
-  - cooking oil or butter 
-  - spices and herbs (dried or fresh) - any combination of onion, garlic, orange peel, lemon peel, rosemary, dill, sage, - Basically whatever you prefer and have on hand. 
-  - tomato paste 
-  - beef bouillon (optional) or mushrooms or anchovies. Depending on what you use, mind your salt. 
-  - Egg 
-  - Carrots/beets (root and or leaves), bokchoy, swiss chard, celery (stalk and leaves) 
-  - optional: cheese 
-```
+
+  >- potato 
+  >- onion or shallot or leek 
+  >- garlic, bulbs or scapes 
+  >- cooking oil or butter 
+  >- spices and herbs (dried or fresh) - any combination of onion, garlic, orange peel, lemon peel, rosemary, dill, sage, - Basically whatever you prefer and have on hand. 
+  >- tomato paste 
+  >- beef bouillon (optional) or mushrooms or anchovies. Depending on what you use, mind your salt. 
+  >- Egg 
+  >- Carrots/beets (root and or leaves), bokchoy, swiss chard, celery (stalk and leaves) 
+  >- optional: cheese 
+
 ## Procedure:  
 
   >- Dice potatoes, boil 10m till soft 
