@@ -27,7 +27,8 @@ Cloud Engineer, Kubernetes team, June 2022 - Current
 
 Site Reliability Engineer, Metrics team, Oct 2019 - May 2022
 
-**Kubernetes**
+**Kubernetes team**
+
 [Kubernetes](https://github.com/kubernetes/kubernetes), also known as K8s, is an open source system for managing containerized applications across multiple hosts. It provides basic mechanisms for deployment, maintenance, and scaling of applications.
 
 Kubernetes builds upon a decade and a half of experience at Google running production workloads at scale using a system called Borg, combined with best-of-breed ideas and practices from the community.
@@ -80,6 +81,7 @@ InfoSec and Technical Operations, As needed since 2020
 - Developed an adhoc mapping solution for quick evaluation of available resources, intact infrastructure, and disaster survivors to quickly match resources to needs safely following large scale disasters.
 
 ___
+
 ## OPTUM ANALYTICS
 *Formerly Humedica | A United Health Group Company*
 
@@ -103,6 +105,8 @@ ___
 ## ZOOMINFO
 
 >ZoomInfo is a subscription-based software as a service company based in Waltham, Massachusetts that sells access to its database of information about business people and companies to sales, marketing and recruiting professionals.
+
+*~I was promoted thrice so I am trying to get all the dates alligned here~*
 
 Systems Engineer, Jan 2017 – July 2017
 
@@ -146,7 +150,8 @@ ___
 
 # Skills 
 
-> Experienced in the selection, design, and configuration of: Solaris, Linux, Windows Server, Kubernetes and containers, Virtualization, Monitoring solutions, Configuration Management Systems, Load Balancers, Message Queuing, Version Control and Firewalls.
+
+> Experienced in the selection, design, and configuration of: Solaris, Linux, Windows Server, Kubernetes and containers, Virtualization, Monitoring solutions, Configuration Management Systems, Load Balancers, Message Queuing, Version Control and Firewalls. Specific technical skills include but are not limited to:
 
 ### Operating Systems
 
@@ -175,3 +180,6 @@ ___
 ### Identity Management
 
 >Active Directory, OpenLDAP, Centrify
+
+### Soft skills
+> Training users, mentorship, incident command, conflict resolution, Tech Writing and documentation, evangelizing open source practices
