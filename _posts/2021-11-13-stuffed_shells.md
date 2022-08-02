@@ -39,7 +39,7 @@ comments: true
 
 ## Procedure
 
-### Red Sauce
+#### Red Sauce
 
 > - melt a pad of butter, add a drop of evoo over the butter
 > - add diced onion + salt to the oil. Do not let brown or burn
@@ -53,7 +53,7 @@ comments: true
 > - at this point you want to continue to taste and tweak to your preference
 > - simmer on low, stirring occasionally.
 
-### Shells + Filling
+#### Shells + Filling
 
 > - Put a large pot of salted water on to boil
 >- Once the water is boiling you only want to boil for 5-7 minutes. Any more and the shells will be mushy. Any less and there will be too much “bite” to the pasta.
