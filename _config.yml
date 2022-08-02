@@ -14,11 +14,11 @@ author: Some Person
 # --- List of links in the navigation bar --- #
 
 navbar-links:
-  Work: "work"
-  Resources:
-    - Beautiful Jekyll: "https://beautifuljekyll.com"
+  stuff:
+    - Work Stuff: "work"
+    - Food Stuff: "timlawrence.org/food"
     - Learn markdown: "https://www.markdowntutorial.com/"
-  Author's home: "https://deanattali.com"
+  Current Site: "timlawrence.org"
 
 # --- Logo --- #
 
@@ -223,7 +223,7 @@ date_format: "%B %-d, %Y"
 timezone: "America/Toronto"
 markdown: kramdown
 highlighter: rouge
-permalink: /:year-:month-:day-:title/
+permalink: /:title/
 paginate: 5
 
 kramdown:
@@ -238,7 +238,7 @@ defaults:
     values:
       layout: "post"
       comments: true  # add comments to all blog posts
-      social-share: true # add social media sharing buttons to all blog posts
+      social-share: false # add social media sharing buttons to all blog posts
   -
     scope:
       path: "" # any file that's not a post will be a "page" layout by default
