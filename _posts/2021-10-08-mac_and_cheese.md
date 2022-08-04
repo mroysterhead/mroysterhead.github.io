@@ -1,7 +1,7 @@
 ---
 layout: post
-title: Stuffed Shells
-subtitle: 
+title: Mac & Cheese
+subtitle: Easy, Creamy, Reheatable, No roux method
 #gh-repo: daattali/beautiful-jekyll
 #gh-badge: [star, fork, follow]
 thumbnail-img: https://i.imgur.com/Oj6JHcS.jpg
@@ -44,5 +44,5 @@ comments: true
 
   >- Optional: After you remove from oven, sprinkle shredded cheddar over the top. 
   >- Required: let it sit. Let it cool down. This dish reheats extremely well. As soon as it comes out of the oven the sauce isn't quite done yet. It will appear as if the sauce as broken and the milk as curdled - it hasn't. Let it cool off before you serve and eat. 
->- 
+
 ![macandcheese](https://i.imgur.com/Oj6JHcS.jpg){: .mx-auto.d-block :}
