@@ -38,4 +38,4 @@ comments: true
   > - Season and bring to boil then reduce to a simmer ~ 20-30 minutes 
   > - Once the rice is tender, add the meats and summer until everything is fully cooked through. 
 
-![macandcheese](https://i.imgur.com/8muwJ1A.jpg){: .mx-auto.d-block :}
+![shellfish](https://i.imgur.com/8muwJ1A.jpg){: .mx-auto.d-block :}
