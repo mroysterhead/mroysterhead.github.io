@@ -14,11 +14,7 @@ author: Some Person
 # --- List of links in the navigation bar --- #
 
 navbar-links:
-  stuff:
-    - Work Stuff: "work"
-    - Food Stuff: "https://timlawrence.org/food"
-    - Learn markdown: "https://www.markdowntutorial.com/"
-  Current Site: "https://timlawrence.org"
+  work stuff: "work"
   stuff i care about:
     - Yes On Ranked Voting: "https://www.fairvote.org/rcvbenefits"
     - The Dark Side of Automation: "https://points.datasociety.net/the-robots-are-just-automated-management-tools-b9bf28c4434"
