@@ -4,7 +4,7 @@ title: Stuffed Shells
 subtitle: 
 #gh-repo: daattali/beautiful-jekyll
 #gh-badge: [star, fork, follow]
-thumbnail-img: assets/img/stuffedshells.jpg
+thumbnail-img: https://i.imgur.com/KjZApqu.jpg
 tags: [food, dinner, comfort food]
 comments: true
 --- 
@@ -70,4 +70,4 @@ comments: true
 >Bake at 350 ~45m
 
 Like most baked pasta dishes, this will need to rest for 10-20 minutes before serving.
-![gardenhash](https://mroysterhead.github.io/assets/img/stuffedshells.jpg){: .mx-auto.d-block :}
+![gardenhash](https://i.imgur.com/KjZApqu.jpg){: .mx-auto.d-block :}

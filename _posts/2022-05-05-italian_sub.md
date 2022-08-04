@@ -4,7 +4,7 @@ title: Italian Sub
 subtitle: Long Cold Cut Sandwich
 #gh-repo: daattali/beautiful-jekyll
 #gh-badge: [star, fork, follow]
-thumbnail-img: assets/img/deli.jpg
+thumbnail-img: https://i.imgur.com/UCMW3dk.jpg
 tags: [food, lunch, sandwich]
 comments: true
 ---
@@ -64,4 +64,4 @@ comments: true
 > Even if you intend to eat it right away, wrapping the sandwich is necessary and shouldn’t be skipped. You need to trust me on this.
 
 
-![Deli](https://mroysterhead.github.io/assets/img/deli.jpg){: .mx-auto.d-block :}
+![Deli](https://i.imgur.com/UCMW3dk.jpg){: .mx-auto.d-block :}

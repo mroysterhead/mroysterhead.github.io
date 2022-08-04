@@ -4,11 +4,10 @@ title: Garden Hash
 subtitle: Quick Dish from the Garden
 #gh-repo: daattali/beautiful-jekyll
 #gh-badge: [star, fork, follow]
-thumbnail-img: assets/img/gardenhash.jpg
+thumbnail-img: https://i.imgur.com/VSGufYP.jpg
 tags: [food, lunch, dinner, hash, quick and easy]
 comments: true
 --- 
-![gardenhash](https://mroysterhead.github.io/assets/img/gardenhash.jpg){: .mx-auto.d-block :}
 
 ## Ingredients
 ```
@@ -37,3 +36,5 @@ comments: true
 
 --- 
 >context: This is as close as I get to an anecdote on a recipe but context helps. I make this whenever I "thin out" my garden beds. Spring to summer. In the fall, this is a stew or a soup. I use a lot of seedings, they are good. It's hard to mess this up, basically, add whatever you have on hand usually from the garden but leftovers and anything from the fridge "about to go" works too - leftover rice, Italian sausage or chorizo is great here, BBQ does really well. 
+
+![gardenhash](https://i.imgur.com/VSGufYP.jpg){: .mx-auto.d-block :}
