@@ -53,4 +53,4 @@ comments: true
 
 
 
-![purpcab](https://i.imgur.com/mn2CRkL.jpg){: .mx-auto.d-block :}
+![toast](https://i.imgur.com/mn2CRkL.jpg){: .mx-auto.d-block :}

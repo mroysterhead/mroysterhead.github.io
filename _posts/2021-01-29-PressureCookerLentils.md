@@ -40,4 +40,4 @@ comments: true
 
 
 
-![purpcab](https://i.imgur.com/0AQNIyH.jpg){: .mx-auto.d-block :}
+![pressure](https://i.imgur.com/0AQNIyH.jpg){: .mx-auto.d-block :}
