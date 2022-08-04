@@ -16,9 +16,9 @@ author: Some Person
 navbar-links:
   stuff:
     - Work Stuff: "work"
-    - Food Stuff: "timlawrence.org/food"
+    - Food Stuff: "https://timlawrence.org/food"
     - Learn markdown: "https://www.markdowntutorial.com/"
-  Current Site: "timlawrence.org"
+  Current Site: "https://timlawrence.org"
 
 # --- Logo --- #
 
