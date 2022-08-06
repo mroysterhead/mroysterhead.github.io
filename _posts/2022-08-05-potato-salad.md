@@ -40,6 +40,7 @@ Two things:
     - if not salt or acid or umami, try sweet (honey, raisons, appricots)
     - if you already added salt, acid, umami, sweet, maybe texture, add crunch (celery, crispy fried onions etc.)
     - if its none of those you probably messed up and need to order a pizza.
+2. let - it - cool. Let the potatoes cool. Seriously. 
     
 
 ![spuds](https://i.imgur.com/Wtl9ezC.jpg){: .mx-auto.d-block :}
