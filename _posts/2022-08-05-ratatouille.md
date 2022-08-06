@@ -50,7 +50,7 @@ The skins will darken and turn black, I promise you they are not burning
     pepper
     olive oil
 
-  # Procedure
+# Procedure
 
   > -  Preheat the oven for 375˚F
   > -  Slice the eggplant, tomatoes, squash, and zucchini into thin disks. Remember pogs? kinda like that. Don't over do it and cut yourself. Use the slicing function on the food processor or a mandolin if you have one. 
@@ -62,4 +62,4 @@ The skins will darken and turn black, I promise you they are not burning
 
 ![Ratatouille](https://i.imgur.com/ilYnqNe.jpg){: .mx-auto.d-block :}
 
-![Ratatouille](https://i.imgur.com/Ldj2vjW.png){: .mx-auto.d-block :}
+![remy](https://i.imgur.com/Ldj2vjW.png){: .mx-auto.d-block :}
