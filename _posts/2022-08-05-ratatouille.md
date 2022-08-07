@@ -58,8 +58,3 @@ The skins will darken and turn black, I promise you they are not burning
   > -  Arrange the sliced veggies in alternating patterns, (for example, eggplant, tomato, squash, zucchini) on top of the sauce from the outer edge to the middle of the pan. Season with salt and pepper.
   > - chop the herbs and mix with olive oil to make a paste, almost til it looks like pesto. Paint this over the veggies
   > -  Cover the pan with foil or the dutch oven and bake for 40 minutes. Uncover, then bake for another 20 minutes, until the vegetables are softened. If you are using a dutch oven, add 10 to 15 minutes.
-
-
-![Ratatouille](https://i.imgur.com/ilYnqNe.jpg){: .mx-auto.d-block :}
-
-![remy](https://i.imgur.com/Ldj2vjW.png){: .mx-auto.d-block :}
