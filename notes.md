@@ -1,5 +1,5 @@
 ---
 layout: note
-title: timlawrence.org
-subtitle: test
+title: technotes
+subtitle: technical things
 ---
