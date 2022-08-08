@@ -14,8 +14,10 @@ author: Some Person
 # --- List of links in the navigation bar --- #
 
 navbar-links:
-  work stuff: "work"
-  notes: "notes"
+  my stuff:
+    food stuff: "food"
+    work stuff: "work"
+    technotes: "notes"
   stuff i care about:
     - Yes On Ranked Voting: "https://www.fairvote.org/rcvbenefits"
     - The Dark Side of Automation: "https://points.datasociety.net/the-robots-are-just-automated-management-tools-b9bf28c4434"
