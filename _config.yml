@@ -18,7 +18,6 @@ navbar-links:
     - food stuff: "food"
     - work stuff: "work"
     - technotes: "notes"
-  work stuff: "work"
   stuff i care about:
     - Yes On Ranked Voting: "https://www.fairvote.org/rcvbenefits"
     - The Dark Side of Automation: "https://points.datasociety.net/the-robots-are-just-automated-management-tools-b9bf28c4434"
@@ -117,14 +116,14 @@ edit_page_button: true
 # Personalize the colours in your website. Colour values can be any valid CSS colour
 
 navbar-col: "#EAEAEA"
-navbar-text-col: "#404040"
+navbar-text-col: "#A9A9A9"
 navbar-border-col: "#DDDDDD"
-page-col: "#FFFFFF"
-text-col: "#404040"
-link-col: "#008AFF"
+page-col: "#404040"
+text-col: "#FFFFFF"
+link-col: "#FFFFFF"
 hover-col: "#0085A1"
 footer-col: "#EAEAEA"
-footer-text-col: "#777777"
+footer-text-col: "#A9A9A9"
 footer-link-col: "#404040"
 footer-hover-col: "#0085A1"
 
