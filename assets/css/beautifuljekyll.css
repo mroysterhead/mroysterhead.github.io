@@ -68,6 +68,12 @@ hr.small {
   border-radius: 0.1875rem;
 }
 
+/* Link */
+.blog-post p a{
+  color:#f40000;
+ }
+ 
+ 
 /* fix in-page anchors to not be behind fixed header */
 :target:before {
   content: "";
