@@ -27,6 +27,11 @@ navbar-links:
   stuff i like: 
     - The Forms of Freedom: "https://www.youtube.com/watch?v=FqPwr-cVz_M"
     - Puppet Roles and Profiles: "http://garylarizza.com/blog/2014/02/17/puppet-workflow-part-2/"
+    - crimethinc: "https://crimethinc.com/"
+    - bellingcat: "https://www.bellingcat.com/"
+    - AKpress: "https://www.akpress.org/"
+    - Anarchist Library: "https://theanarchistlibrary.org/"
+    - LWN: "https://lwn.net/"
 
 
 # --- Logo --- #
