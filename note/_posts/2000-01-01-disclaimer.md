@@ -4,7 +4,7 @@ title: disclaimer
 subtitle: 
 #gh-repo: daattali/beautiful-jekyll
 #gh-badge: [star, fork, follow]
-thumbnail-img: https://i.imgur.com/SV9nZpY.png
+thumbnail-img:
 tags: [tech, notes]
 comments: true
 --- 
