@@ -562,7 +562,7 @@ footer .footer-custom-content {
 }
 
 .blog-tags span {
-  color: {{ site.text-col | default: "#afabab" }};
+  color: {{ site.text-col | default: "#ffffff" }};
   opacity: 0.8;
 }
 
@@ -571,7 +571,7 @@ footer .footer-custom-content {
 }
 
 .blog-tags a {
-  color: {{ site.text-col | default: "#afabab" }};
+  color: {{ site.text-col | default: "#ffffff" }};
   text-decoration: none;
   padding: 0 0.3125rem;
   opacity: 0.8;
@@ -802,7 +802,7 @@ nav.top-nav-short-permanent ~ header > .intro-header.big-img {
   padding: 0.625rem 0.3125rem;
   background-color: #000000;
   border-radius: 0;
-  color: {{ site.text-col | default: "#404040" }};
+  color: {{ site.text-col | default: "#ffffff" }};
 }
 @media (min-width: 768px) {
   .pagination .page-item .page-link {
