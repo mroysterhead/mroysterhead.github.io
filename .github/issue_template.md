@@ -1,6 +1,6 @@
 # What did I screw up?
 
-[] Tech note is attrocious
+[] Tech note is atrocious
 [] Recipe is gross
 [] Something is broken
 
