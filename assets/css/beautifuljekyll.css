@@ -54,7 +54,7 @@ a:focus {
   color: {{ site.hover-col | default: "#0085A1" }};
 }
 blockquote {
-  color: #808080;
+  color: #ffffff;
   font-style: italic;
 }
 blockquote p:first-child {
@@ -853,6 +853,16 @@ table tr td :last-child {
 }
 
 /* --- Code blocks --- */
+
+/* Code Tag */
+.blog-post .highlight code{
+  color:#ffffff;
+ }
+ 
+ /* Highlight */
+ .blog-post .highlight .highlight{
+  border-color:#edecec;
+ }
 
 code {
   padding: 0.125rem 0.25rem;
