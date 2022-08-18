@@ -4,7 +4,7 @@ title: unattributed Awesome Dish
 subtitle: 
 #gh-repo: daattali/beautiful-jekyll
 #gh-badge: [star, fork, follow]
-thumbnail-img: blob:https://imgur.com/a10bf315-be23-4dc8-9cdf-033249ff4699
+thumbnail-img: https://i.imgur.com/lms2f07.png
 tags: [food, dinner, rahul]
 comments: true
 ---
@@ -42,4 +42,4 @@ Temper Oil with
 Cook for 15 minutes
 - Add rock salt, cloves, mint leaves
 
-![pepper](blob:https://imgur.com/a10bf315-be23-4dc8-9cdf-033249ff4699){: .mx-auto.d-block :}
+![pepper](https://i.imgur.com/lms2f07.png){: .mx-auto.d-block :}
