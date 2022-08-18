@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Rahul's Wifes Awesome Dish
+title: Madhurima Das Awesome Dish
 subtitle: 
 #gh-repo: daattali/beautiful-jekyll
 #gh-badge: [star, fork, follow]
@@ -8,6 +8,7 @@ thumbnail-img: https://i.imgur.com/TFBn0mU.png
 tags: [food, dinner, rahul]
 comments: true
 ---
+![rahul](https://i.imgur.com/TFBn0mU.png){: .mx-auto.d-block :}
 
 Marinate 2lb of chicken with 2 tsp ginger-garlic paste, salt, turmeric powder and 2-3 tbsp of thick yogurt.
 
@@ -23,7 +24,9 @@ In a blender jar add
 - 1/3 cup of thick coconut milk or grated coconut
 
 Heat oil for cooking
+
 Temper Oil with
+
 - 4 green cardamom 
 - 2 clove 
 - small tej-patta 
@@ -31,13 +34,11 @@ Temper Oil with
 - Add 1/2 tsp of sugar and caramelize sugar
 - 1 rough chopped onion.  Caramelize. 
  marinated chicken pieces and saute till golden yellow
-Add following:
+ 
+ Add following:
 - the green masala paste
 - 1 small tomato chopped,
 - 1/2 tsp of Kashmiri Mirch, and 2 tsp Coriander powder
 Cook for 15 minutes
 - Add rock salt, cloves, mint leaves
 
-
-
-![rahul](https://i.imgur.com/TFBn0mU.png){: .mx-auto.d-block :}
