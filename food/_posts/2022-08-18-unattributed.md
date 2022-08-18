@@ -4,11 +4,11 @@ title: unattributed Awesome Dish
 subtitle: 
 #gh-repo: daattali/beautiful-jekyll
 #gh-badge: [star, fork, follow]
-thumbnail-img: https://i.imgur.com/TFBn0mU.png
+thumbnail-img: blob:https://imgur.com/a10bf315-be23-4dc8-9cdf-033249ff4699
 tags: [food, dinner, rahul]
 comments: true
 ---
-![rahul](https://i.imgur.com/TFBn0mU.png){: .mx-auto.d-block :}
+
 
 Marinate 2lb of chicken with 2 tsp ginger-garlic paste, salt, turmeric powder and 2-3 tbsp of thick yogurt.
 
@@ -42,3 +42,4 @@ Temper Oil with
 Cook for 15 minutes
 - Add rock salt, cloves, mint leaves
 
+![pepper](blob:https://imgur.com/a10bf315-be23-4dc8-9cdf-033249ff4699){: .mx-auto.d-block :}
