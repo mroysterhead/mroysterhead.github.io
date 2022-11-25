@@ -4,7 +4,7 @@ title: mastodon verify
 subtitle: noise
 #gh-repo: daattali/beautiful-jekyll
 #gh-badge: [star, fork, follow]
-thumbnail-img: https://i.imgur.com/SV9nZpY.png
+#thumbnail-img: https://i.imgur.com/SV9nZpY.png
 tags: [mastodon]
 comments: false
 --- 
