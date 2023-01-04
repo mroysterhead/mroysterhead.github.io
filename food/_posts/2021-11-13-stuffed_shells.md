@@ -35,7 +35,7 @@ comments: true
 
     dried basil / parsley / oregano
 
-    Beef bullion 
+    Beef bouillon 
 
 ## Procedure
 
@@ -47,7 +47,7 @@ comments: true
 > - Add tomato paste and fry, move it a lot or it will burn
 > - add crushed tomato
 > - It is critically important that you taste test the sauce before and after every step and between stirrings.
-> - add a dusting of beef bullion over the sauce
+> - add a dusting of beef bouillon over the sauce
 > - add dollop of ricotta and or a splash of milk 
 > - add a big pinch of sugar
 > - at this point you want to continue to taste and tweak to your preference
