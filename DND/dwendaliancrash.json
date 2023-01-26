@@ -1,0 +1,2252 @@
+{
+	"siteVersion": "1.174.3",
+	"name": "Magic items for a {@b Level 5–10} Party",
+	"type": "Party Loot: Level 5–10",
+	"dateTimeGenerated": 1674761775030,
+	"entityInfos": [
+		{
+			"page": "items.html",
+			"entity": {
+				"name": "Javelin of Lightning",
+				"source": "DMG",
+				"page": 178,
+				"srd": true,
+				"baseItem": "javelin|phb",
+				"type": "M",
+				"tier": "major",
+				"rarity": "uncommon",
+				"weight": 2,
+				"weaponCategory": "simple",
+				"property": [
+					"T"
+				],
+				"range": "30/120",
+				"dmg1": "1d6",
+				"dmgType": "P",
+				"entries": [
+					"This javelin is a magic weapon. When you hurl it and speak its command word, it transforms into a bolt of lightning, forming a line 5 feet wide that extends out from you to a target within 120 feet. Each creature in the line excluding you and the target must make a DC 13 Dexterity saving throw, taking {@damage 4d6} lightning damage on a failed save, and half as much damage on a successful one. The lightning bolt turns back into a javelin when it reaches the target. Make a ranged weapon attack against the target. On a hit, the target takes damage from the javelin plus {@damage 4d6} lightning damage.",
+					"The javelin's property can't be used again until the next dawn. In the meantime, the javelin can still be used as a magic weapon."
+				],
+				"lootTables": [
+					"Magic Item Table F"
+				],
+				"hasFluffImages": true,
+				"__prop": "item",
+				"_isEnhanced": true,
+				"_category": "Other",
+				"_fullEntries": [
+					"This javelin is a magic weapon. When you hurl it and speak its command word, it transforms into a bolt of lightning, forming a line 5 feet wide that extends out from you to a target within 120 feet. Each creature in the line excluding you and the target must make a DC 13 Dexterity saving throw, taking {@damage 4d6} lightning damage on a failed save, and half as much damage on a successful one. The lightning bolt turns back into a javelin when it reaches the target. Make a ranged weapon attack against the target. On a hit, the target takes damage from the javelin plus {@damage 4d6} lightning damage.",
+					"The javelin's property can't be used again until the next dawn. In the meantime, the javelin can still be used as a magic weapon.",
+					{
+						"type": "wrapper",
+						"wrapped": {
+							"type": "entries",
+							"name": "Thrown",
+							"entries": [
+								"If a weapon has the thrown property, you can throw the weapon to make a ranged attack. If the weapon is a melee weapon, you use the same ability modifier for that attack roll and damage roll that you would use for a melee attack with the weapon. For example, if you throw a handaxe, you use your Strength, but if you throw a dagger, you can use either your Strength or your Dexterity, since the dagger has the finesse property."
+							]
+						},
+						"data": {
+							"item__mergedEntryTag": "property"
+						}
+					}
+				],
+				"_typeListText": [
+					"simple weapon",
+					"melee weapon"
+				],
+				"_typeHtml": "weapon (<a href=\"items.html#javelin_phb\"  onmouseover=\"Renderer.hover.pHandleLinkMouseOver(event, this)\" onmouseleave=\"Renderer.hover.handleLinkMouseLeave(event, this)\" onmousemove=\"Renderer.hover.handleLinkMouseMove(event, this)\" data-vet-page=\"items.html\" data-vet-source=\"phb\" data-vet-hash=\"javelin_phb\"   ontouchstart=\"Renderer.hover.handleTouchStart(event, this)\" >javelin</a>)",
+				"_subTypeHtml": "simple weapon, melee weapon",
+				"_attunement": null,
+				"_attunementCategory": "No Attunement Required",
+				"_fSources": "DMG",
+				"_fProperties": [
+					"thrown"
+				],
+				"_fMisc": [
+					"SRD",
+					"Has Images",
+					"Magic"
+				],
+				"_fValue": 0,
+				"_fTier": [
+					"major"
+				],
+				"_fIsMundane": false,
+				"_fBaseItem": [
+					"javelin__phb"
+				],
+				"_fBaseItemAll": [
+					"javelin__phb"
+				],
+				"_fBonus": [],
+				"_fAttunement": [
+					"No Attunement Required"
+				]
+			}
+		},
+		{
+			"page": "items.html",
+			"entity": {
+				"name": "Stone of Good Luck",
+				"source": "DMG",
+				"page": 205,
+				"srd": true,
+				"tier": "major",
+				"rarity": "uncommon",
+				"reqAttune": true,
+				"wondrous": true,
+				"bonusSavingThrow": "+1",
+				"bonusAbilityCheck": "+1",
+				"entries": [
+					"While this polished agate is on your person, you gain a +1 bonus to ability checks and saving throws."
+				],
+				"lootTables": [
+					"Magic Item Table F"
+				],
+				"hasFluffImages": true,
+				"__prop": "item",
+				"_isEnhanced": true,
+				"_category": "Other",
+				"_typeListText": [
+					"wondrous item"
+				],
+				"_typeHtml": "wondrous item",
+				"_subTypeHtml": "",
+				"_attunement": "(requires attunement)",
+				"_attunementCategory": "Requires Attunement",
+				"_fSources": "DMG",
+				"_fProperties": [],
+				"_fMisc": [
+					"SRD",
+					"Has Images",
+					"Magic"
+				],
+				"_fValue": 0,
+				"_fTier": [
+					"major"
+				],
+				"_fIsMundane": false,
+				"_fBaseItem": [],
+				"_fBaseItemAll": [],
+				"_fBonus": [
+					"Saving Throws"
+				],
+				"_fAttunement": [
+					"Requires Attunement"
+				]
+			}
+		},
+		{
+			"page": "items.html",
+			"entity": {
+				"name": "Hat of Disguise",
+				"source": "DMG",
+				"page": 173,
+				"srd": true,
+				"tier": "major",
+				"rarity": "uncommon",
+				"reqAttune": true,
+				"wondrous": true,
+				"entries": [
+					"While wearing this hat, you can use an action to cast the {@spell disguise self} spell from it at will. The spell ends if the hat is removed."
+				],
+				"optionalfeatures": [
+					"replicate magic item|tce",
+					"replicate magic item|uaartificerrevisited"
+				],
+				"attachedSpells": [
+					"disguise self"
+				],
+				"lootTables": [
+					"Magic Item Table F"
+				],
+				"__prop": "item",
+				"_isEnhanced": true,
+				"_category": "Other",
+				"_typeListText": [
+					"wondrous item"
+				],
+				"_typeHtml": "wondrous item",
+				"_subTypeHtml": "",
+				"_attunement": "(requires attunement)",
+				"_attunementCategory": "Requires Attunement",
+				"_fSources": "DMG",
+				"_fProperties": [],
+				"_fMisc": [
+					"SRD",
+					"Magic"
+				],
+				"_fValue": 0,
+				"_fTier": [
+					"major"
+				],
+				"_fIsMundane": false,
+				"_fBaseItem": [],
+				"_fBaseItemAll": [],
+				"_fBonus": [],
+				"_fAttunement": [
+					"Requires Attunement"
+				]
+			}
+		},
+		{
+			"page": "items.html",
+			"entity": {
+				"name": "+1 Trident",
+				"source": "DMG",
+				"type": "M",
+				"rarity": "uncommon",
+				"weight": 4,
+				"weaponCategory": "martial",
+				"property": [
+					"T",
+					"V"
+				],
+				"range": "20/60",
+				"dmg1": "1d6",
+				"dmgType": "P",
+				"dmg2": "1d8",
+				"weapon": true,
+				"__prop": "item",
+				"_category": "Specific Variant",
+				"entries": [],
+				"_isEnhanced": true,
+				"_baseName": "Trident",
+				"_baseSrd": true,
+				"_baseBasicRules": true,
+				"_baseSource": "PHB",
+				"_variantName": "+1 Weapon",
+				"page": 213,
+				"srd": true,
+				"basicRules": true,
+				"tier": "major",
+				"bonusWeapon": "+1",
+				"_fullEntries": [
+					"You have a +1 bonus to attack and damage rolls made with this magic weapon.",
+					{
+						"type": "wrapper",
+						"wrapped": {
+							"type": "entries",
+							"name": "Thrown",
+							"entries": [
+								"If a weapon has the thrown property, you can throw the weapon to make a ranged attack. If the weapon is a melee weapon, you use the same ability modifier for that attack roll and damage roll that you would use for a melee attack with the weapon. For example, if you throw a handaxe, you use your Strength, but if you throw a dagger, you can use either your Strength or your Dexterity, since the dagger has the finesse property."
+							]
+						},
+						"data": {
+							"item__mergedEntryTag": "property"
+						}
+					},
+					{
+						"type": "wrapper",
+						"wrapped": {
+							"type": "entries",
+							"name": "Versatile",
+							"entries": [
+								"This weapon can be used with one or two hands. A damage value in parentheses appears with the property—the damage when the weapon is used with two hands to make a melee attack."
+							]
+						},
+						"data": {
+							"item__mergedEntryTag": "property"
+						}
+					}
+				],
+				"lootTables": [
+					"Magic Item Table F"
+				],
+				"genericVariant": {
+					"name": "+1 Weapon",
+					"source": "DMG"
+				},
+				"_typeListText": [
+					"martial weapon",
+					"melee weapon"
+				],
+				"_typeHtml": "weapon",
+				"_subTypeHtml": "martial weapon, melee weapon",
+				"_attunement": null,
+				"_attunementCategory": "No Attunement Required",
+				"_fSources": "DMG",
+				"_fProperties": [
+					"thrown",
+					"versatile"
+				],
+				"_fMisc": [
+					"SRD",
+					"Basic Rules",
+					"Magic"
+				],
+				"_fValue": 0,
+				"_fTier": [
+					"major"
+				],
+				"_fIsMundane": false,
+				"_fBaseItem": [
+					"trident__phb"
+				],
+				"_fBaseItemAll": [
+					"trident__phb"
+				],
+				"_fBonus": [
+					"Weapon Attack and Damage Rolls",
+					"Weapon Attack and Damage Rolls (+1)"
+				],
+				"_fAttunement": [
+					"No Attunement Required"
+				]
+			}
+		},
+		{
+			"page": "items.html",
+			"entity": {
+				"name": "Gauntlets of Ogre Power",
+				"source": "DMG",
+				"page": 171,
+				"srd": true,
+				"basicRules": true,
+				"tier": "major",
+				"rarity": "uncommon",
+				"reqAttune": true,
+				"wondrous": true,
+				"ability": {
+					"static": {
+						"str": 19
+					}
+				},
+				"entries": [
+					"Your Strength score is 19 while you wear these gauntlets. They have no effect on you if your Strength is already 19 or higher without them."
+				],
+				"optionalfeatures": [
+					"replicate magic item|tce",
+					"replicate magic item|uaartificerrevisited"
+				],
+				"lootTables": [
+					"Magic Item Table F"
+				],
+				"hasFluffImages": true,
+				"__prop": "item",
+				"_isEnhanced": true,
+				"_category": "Other",
+				"_typeListText": [
+					"wondrous item"
+				],
+				"_typeHtml": "wondrous item",
+				"_subTypeHtml": "",
+				"_attunement": "(requires attunement)",
+				"_attunementCategory": "Requires Attunement",
+				"_fSources": "DMG",
+				"_fProperties": [],
+				"_fMisc": [
+					"SRD",
+					"Basic Rules",
+					"Has Images",
+					"Magic",
+					"Ability Score Adjustment"
+				],
+				"_fValue": 0,
+				"_fTier": [
+					"major"
+				],
+				"_fIsMundane": false,
+				"_fBaseItem": [],
+				"_fBaseItemAll": [],
+				"_fBonus": [],
+				"_fAttunement": [
+					"Requires Attunement"
+				]
+			}
+		},
+		{
+			"page": "items.html",
+			"entity": {
+				"name": "Order of the Silver Dragon +2 Shield",
+				"source": "CoS",
+				"page": 68,
+				"type": "S",
+				"tier": "major",
+				"rarity": "rare",
+				"weight": 6,
+				"ac": 2,
+				"bonusAc": "+2",
+				"entries": [
+					"While holding this shield, you have a +2 bonus to AC. This bonus is in addition to the shield's normal bonus to AC.",
+					"The shield is emblazoned with a stylized silver dragon that is the emblem of the Order of the Silver Dragon (see {@adventure {@i Curse of Strahd}, chapter 7|CoS|7|The Order of the Silver Dragon}). The shield whispers warnings to its bearer, granting a +2 bonus to initiative if the bearer isn't {@condition incapacitated}.",
+					"A shield is made from wood or metal and is carried in one hand. Wielding a shield increases your Armor Class by 2. You can benefit from only one shield at a time."
+				],
+				"__prop": "item",
+				"_isEnhanced": true,
+				"_category": "Other",
+				"_typeListText": [
+					"shield"
+				],
+				"_typeHtml": "armor (<a href=\"items.html#shield_phb\"  onmouseover=\"Renderer.hover.pHandleLinkMouseOver(event, this)\" onmouseleave=\"Renderer.hover.handleLinkMouseLeave(event, this)\" onmousemove=\"Renderer.hover.handleLinkMouseMove(event, this)\" data-vet-page=\"items.html\" data-vet-source=\"phb\" data-vet-hash=\"shield_phb\"   ontouchstart=\"Renderer.hover.handleTouchStart(event, this)\" >shield</a>)",
+				"_subTypeHtml": "",
+				"_attunement": null,
+				"_attunementCategory": "No Attunement Required",
+				"_fSources": "CoS",
+				"_fProperties": [],
+				"_fMisc": [
+					"Magic"
+				],
+				"_fValue": 0,
+				"_fTier": [
+					"major"
+				],
+				"_fIsMundane": false,
+				"_fBaseItem": [],
+				"_fBaseItemAll": [],
+				"_fBonus": [
+					"Armor Class"
+				],
+				"_fAttunement": [
+					"No Attunement Required"
+				]
+			}
+		},
+		{
+			"page": "items.html",
+			"entity": {
+				"name": "Ear Horn of Hearing",
+				"source": "XGE",
+				"page": 137,
+				"tier": "minor",
+				"rarity": "common",
+				"wondrous": true,
+				"entries": [
+					"While held up to your ear, this horn suppresses the effects of the {@condition deafened} condition on you, allowing you to hear normally."
+				],
+				"__prop": "item",
+				"_isEnhanced": true,
+				"_category": "Other",
+				"_typeListText": [
+					"wondrous item"
+				],
+				"_typeHtml": "wondrous item",
+				"_subTypeHtml": "",
+				"_attunement": null,
+				"_attunementCategory": "No Attunement Required",
+				"_fSources": "XGE",
+				"_fProperties": [],
+				"_fMisc": [
+					"Magic"
+				],
+				"_fValue": 0,
+				"_fTier": [
+					"minor"
+				],
+				"_fIsMundane": false,
+				"_fBaseItem": [],
+				"_fBaseItemAll": [],
+				"_fBonus": [],
+				"_fAttunement": [
+					"No Attunement Required"
+				]
+			}
+		},
+		{
+			"page": "items.html",
+			"entity": {
+				"name": "Staff of Flowers",
+				"source": "XGE",
+				"page": 139,
+				"tier": "minor",
+				"rarity": "common",
+				"weight": 4,
+				"weaponCategory": "simple",
+				"property": [
+					"V"
+				],
+				"dmg1": "1d6",
+				"dmgType": "B",
+				"dmg2": "1d8",
+				"recharge": "dawn",
+				"rechargeAmount": "{@dice 1d6 + 4}",
+				"charges": 10,
+				"staff": true,
+				"entries": [
+					"This wooden staff has 10 charges. While holding it, you can use an action to expend 1 charge from the staff and cause a flower to sprout from a patch of earth or soil within 5 feet of you, or from the staff itself. Unless you choose a specific kind of flower, the staff creates a mildscented daisy. The flower is harmless and nonmagical, and it grows or withers as a normal flower would. The staff regains {@dice 1d6 + 4} expended charges daily at dawn. If you expend the last charge, roll a {@dice d20}. On a 1, the staff turns into flower petals and is lost forever."
+				],
+				"__prop": "item",
+				"_isEnhanced": true,
+				"_category": "Other",
+				"_fullEntries": [
+					"This wooden staff has 10 charges. While holding it, you can use an action to expend 1 charge from the staff and cause a flower to sprout from a patch of earth or soil within 5 feet of you, or from the staff itself. Unless you choose a specific kind of flower, the staff creates a mildscented daisy. The flower is harmless and nonmagical, and it grows or withers as a normal flower would. The staff regains {@dice 1d6 + 4} expended charges daily at dawn. If you expend the last charge, roll a {@dice d20}. On a 1, the staff turns into flower petals and is lost forever.",
+					{
+						"type": "wrapper",
+						"wrapped": {
+							"type": "entries",
+							"name": "Versatile",
+							"entries": [
+								"This weapon can be used with one or two hands. A damage value in parentheses appears with the property—the damage when the weapon is used with two hands to make a melee attack."
+							]
+						},
+						"data": {
+							"item__mergedEntryTag": "property"
+						}
+					}
+				],
+				"_typeListText": [
+					"staff",
+					"simple weapon",
+					"melee weapon"
+				],
+				"_typeHtml": "staff, weapon",
+				"_subTypeHtml": "simple weapon, melee weapon",
+				"_attunement": null,
+				"_attunementCategory": "No Attunement Required",
+				"_fSources": "XGE",
+				"_fProperties": [
+					"versatile"
+				],
+				"_fMisc": [
+					"Magic",
+					"Charges"
+				],
+				"_fValue": 0,
+				"_fTier": [
+					"minor"
+				],
+				"_fIsMundane": false,
+				"_fBaseItem": [],
+				"_fBaseItemAll": [],
+				"_fBonus": [],
+				"_fAttunement": [
+					"No Attunement Required"
+				]
+			}
+		},
+		{
+			"page": "items.html",
+			"entity": {
+				"name": "Clothes of Mending",
+				"source": "XGE",
+				"page": 137,
+				"tier": "minor",
+				"rarity": "common",
+				"wondrous": true,
+				"entries": [
+					"This elegant outfit of traveler's clothes magically mends itself to counteract daily wear and tear. Pieces of the outfit that are destroyed can't be repaired in this way."
+				],
+				"__prop": "item",
+				"_isEnhanced": true,
+				"_category": "Other",
+				"_typeListText": [
+					"wondrous item"
+				],
+				"_typeHtml": "wondrous item",
+				"_subTypeHtml": "",
+				"_attunement": null,
+				"_attunementCategory": "No Attunement Required",
+				"_fSources": "XGE",
+				"_fProperties": [],
+				"_fMisc": [
+					"Magic"
+				],
+				"_fValue": 0,
+				"_fTier": [
+					"minor"
+				],
+				"_fIsMundane": false,
+				"_fBaseItem": [],
+				"_fBaseItemAll": [],
+				"_fBonus": [],
+				"_fAttunement": [
+					"No Attunement Required"
+				]
+			}
+		},
+		{
+			"page": "items.html",
+			"entity": {
+				"name": "Charlatan's Die",
+				"source": "XGE",
+				"page": 136,
+				"tier": "minor",
+				"rarity": "common",
+				"reqAttune": true,
+				"wondrous": true,
+				"entries": [
+					"Whenever you roll this six—sided die, you can control which number it rolls."
+				],
+				"__prop": "item",
+				"_isEnhanced": true,
+				"_category": "Other",
+				"_typeListText": [
+					"wondrous item"
+				],
+				"_typeHtml": "wondrous item",
+				"_subTypeHtml": "",
+				"_attunement": "(requires attunement)",
+				"_attunementCategory": "Requires Attunement",
+				"_fSources": "XGE",
+				"_fProperties": [],
+				"_fMisc": [
+					"Magic"
+				],
+				"_fValue": 0,
+				"_fTier": [
+					"minor"
+				],
+				"_fIsMundane": false,
+				"_fBaseItem": [],
+				"_fBaseItemAll": [],
+				"_fBonus": [],
+				"_fAttunement": [
+					"Requires Attunement"
+				]
+			}
+		},
+		{
+			"page": "items.html",
+			"entity": {
+				"name": "Ersatz Eye",
+				"source": "XGE",
+				"page": 137,
+				"otherSources": [
+					{
+						"source": "EGW"
+					}
+				],
+				"tier": "minor",
+				"rarity": "common",
+				"reqAttune": true,
+				"wondrous": true,
+				"entries": [
+					"This artificial eye replaces a real one that was lost or removed. While the ersatz eye is embedded in your eye socket, it can't be removed by anyone other than you, and you can see through the tiny orb as though it were a normal eye."
+				],
+				"__prop": "item",
+				"_isEnhanced": true,
+				"_category": "Other",
+				"_typeListText": [
+					"wondrous item"
+				],
+				"_typeHtml": "wondrous item",
+				"_subTypeHtml": "",
+				"_attunement": "(requires attunement)",
+				"_attunementCategory": "Requires Attunement",
+				"_fSources": [
+					"XGE",
+					{
+						"item": "EGW",
+						"isIgnoreRed": true,
+						"rendered": null,
+						"searchText": null,
+						"isOtherSource": true
+					}
+				],
+				"_fProperties": [],
+				"_fMisc": [
+					"Magic"
+				],
+				"_fValue": 0,
+				"_fTier": [
+					"minor"
+				],
+				"_fIsMundane": false,
+				"_fBaseItem": [],
+				"_fBaseItemAll": [],
+				"_fBonus": [],
+				"_fAttunement": [
+					"Requires Attunement"
+				]
+			}
+		},
+		{
+			"page": "items.html",
+			"entity": {
+				"name": "Wand of Scowls",
+				"source": "XGE",
+				"page": 140,
+				"type": "WD",
+				"tier": "minor",
+				"rarity": "common",
+				"weight": 1,
+				"recharge": "dawn",
+				"rechargeAmount": 3,
+				"charges": 3,
+				"entries": [
+					"This wand has 3 charges. While holding it, you can use an action to expend 1 of its charges and target a humanoid you can see within 30 feet of you. The target must succeed on a DC 10 Charisma saving throw or be forced to scowl for 1 minute.",
+					"The wand regains all expended charges daily at dawn. If you expend the wand's last charge, roll a {@dice d20}. On a 1, the wand transforms into a {@item wand of smiles|xge}."
+				],
+				"__prop": "item",
+				"_isEnhanced": true,
+				"_category": "Other",
+				"_typeListText": [
+					"wand"
+				],
+				"_typeHtml": "wand",
+				"_subTypeHtml": "",
+				"_attunement": null,
+				"_attunementCategory": "No Attunement Required",
+				"_fSources": "XGE",
+				"_fProperties": [],
+				"_fMisc": [
+					"Magic",
+					"Charges"
+				],
+				"_fValue": 0,
+				"_fTier": [
+					"minor"
+				],
+				"_fIsMundane": false,
+				"_fBaseItem": [],
+				"_fBaseItemAll": [],
+				"_fBonus": [],
+				"_fAttunement": [
+					"No Attunement Required"
+				]
+			}
+		},
+		{
+			"page": "items.html",
+			"entity": {
+				"name": "Bead of Nourishment",
+				"source": "XGE",
+				"page": 136,
+				"tier": "minor",
+				"rarity": "common",
+				"wondrous": true,
+				"entries": [
+					"This spongy, flavorless, gelatinous bead dissolves on your tongue and provides as much nourishment as 1 day of rations."
+				],
+				"miscTags": [
+					"CF/W"
+				],
+				"__prop": "item",
+				"_isEnhanced": true,
+				"_category": "Other",
+				"_typeListText": [
+					"wondrous item"
+				],
+				"_typeHtml": "wondrous item",
+				"_subTypeHtml": "",
+				"_attunement": null,
+				"_attunementCategory": "No Attunement Required",
+				"_fSources": "XGE",
+				"_fProperties": [],
+				"_fMisc": [
+					"Creates Food/Water",
+					"Magic"
+				],
+				"_fValue": 0,
+				"_fTier": [
+					"minor"
+				],
+				"_fIsMundane": false,
+				"_fBaseItem": [],
+				"_fBaseItemAll": [],
+				"_fBonus": [],
+				"_fAttunement": [
+					"No Attunement Required"
+				]
+			}
+		},
+		{
+			"page": "items.html",
+			"entity": {
+				"name": "Perfume of Bewitching",
+				"source": "XGE",
+				"page": 138,
+				"tier": "minor",
+				"rarity": "common",
+				"wondrous": true,
+				"entries": [
+					"This tiny vial contains magic perfume, enough for one use. You can use an action to apply the perfume to yourself, and its effect lasts 1 hour. For the duration, you have advantage on all Charisma checks directed at humanoids of challenge rating 1 or lower. Those subjected to the perfume's effect are not aware that they've been influenced by magic."
+				],
+				"__prop": "item",
+				"_isEnhanced": true,
+				"_category": "Other",
+				"_typeListText": [
+					"wondrous item"
+				],
+				"_typeHtml": "wondrous item",
+				"_subTypeHtml": "",
+				"_attunement": null,
+				"_attunementCategory": "No Attunement Required",
+				"_fSources": "XGE",
+				"_fProperties": [],
+				"_fMisc": [
+					"Magic"
+				],
+				"_fValue": 0,
+				"_fTier": [
+					"minor"
+				],
+				"_fIsMundane": false,
+				"_fBaseItem": [],
+				"_fBaseItemAll": [],
+				"_fBonus": [],
+				"_fAttunement": [
+					"No Attunement Required"
+				]
+			}
+		},
+		{
+			"page": "items.html",
+			"entity": {
+				"name": "Enduring Spellbook",
+				"source": "XGE",
+				"page": 137,
+				"tier": "minor",
+				"rarity": "common",
+				"wondrous": true,
+				"entries": [
+					"This spellbook, along with anything written on its pages, can't be damaged by fire or immersion in water. In addition, the spellbook doesn't deteriorate with age."
+				],
+				"__prop": "item",
+				"_isEnhanced": true,
+				"_category": "Other",
+				"_typeListText": [
+					"wondrous item"
+				],
+				"_typeHtml": "wondrous item",
+				"_subTypeHtml": "",
+				"_attunement": null,
+				"_attunementCategory": "No Attunement Required",
+				"_fSources": "XGE",
+				"_fProperties": [],
+				"_fMisc": [
+					"Magic"
+				],
+				"_fValue": 0,
+				"_fTier": [
+					"minor"
+				],
+				"_fIsMundane": false,
+				"_fBaseItem": [],
+				"_fBaseItemAll": [],
+				"_fBonus": [],
+				"_fAttunement": [
+					"No Attunement Required"
+				]
+			}
+		},
+		{
+			"page": "items.html",
+			"entity": {
+				"name": "Candle of the Deep",
+				"source": "XGE",
+				"page": 136,
+				"tier": "minor",
+				"rarity": "common",
+				"wondrous": true,
+				"entries": [
+					"The flame of this candle is not extinguished when immersed in water. It gives off light and heat like a normal candle."
+				],
+				"__prop": "item",
+				"_isEnhanced": true,
+				"_category": "Other",
+				"_typeListText": [
+					"wondrous item"
+				],
+				"_typeHtml": "wondrous item",
+				"_subTypeHtml": "",
+				"_attunement": null,
+				"_attunementCategory": "No Attunement Required",
+				"_fSources": "XGE",
+				"_fProperties": [],
+				"_fMisc": [
+					"Magic"
+				],
+				"_fValue": 0,
+				"_fTier": [
+					"minor"
+				],
+				"_fIsMundane": false,
+				"_fBaseItem": [],
+				"_fBaseItemAll": [],
+				"_fBonus": [],
+				"_fAttunement": [
+					"No Attunement Required"
+				]
+			}
+		},
+		{
+			"page": "spells.html",
+			"entity": {
+				"name": "Find Traps",
+				"source": "PHB",
+				"page": 241,
+				"srd": true,
+				"level": 2,
+				"school": "D",
+				"time": [
+					{
+						"number": 1,
+						"unit": "action"
+					}
+				],
+				"range": {
+					"type": "point",
+					"distance": {
+						"type": "feet",
+						"amount": 120
+					}
+				},
+				"components": {
+					"v": true,
+					"s": true
+				},
+				"duration": [
+					{
+						"type": "instant"
+					}
+				],
+				"entries": [
+					"You sense the presence of any trap within range that is within line of sight. A trap, for the purpose of this spell, includes anything that would inflict a sudden or unexpected effect you consider harmful or undesirable, which was specifically intended as such by its creator. Thus, the spell would sense an area affected by the {@spell alarm} spell, a {@spell glyph of warding}, or a mechanical pit trap, but it would not reveal a natural weakness in the floor, an unstable ceiling, or a hidden sinkhole.",
+					"This spell merely reveals that a trap is present. You don't learn the location of each trap, but you do learn the general nature of the danger posed by a trap you sense."
+				],
+				"__prop": "spell",
+				"classes": {
+					"fromClassList": [
+						{
+							"name": "Cleric",
+							"source": "PHB"
+						},
+						{
+							"name": "Druid",
+							"source": "PHB"
+						},
+						{
+							"name": "Ranger",
+							"source": "PHB"
+						}
+					],
+					"fromSubclass": [
+						{
+							"class": {
+								"name": "Sorcerer",
+								"source": "PHB"
+							},
+							"subclass": {
+								"name": "Favored Soul v2 (UA)",
+								"shortName": "Favored Soul v2 (UA)",
+								"source": "UASorcerer"
+							}
+						},
+						{
+							"class": {
+								"name": "Sorcerer",
+								"source": "PHB"
+							},
+							"subclass": {
+								"name": "Favored Soul v3 (UA)",
+								"shortName": "Favored Soul v3 (UA)",
+								"source": "UARevisedSubclasses"
+							}
+						},
+						{
+							"class": {
+								"name": "Sorcerer",
+								"source": "PHB"
+							},
+							"subclass": {
+								"name": "Divine Soul",
+								"shortName": "Divine Soul",
+								"source": "XGE"
+							}
+						},
+						{
+							"class": {
+								"name": "Sorcerer",
+								"source": "PHB"
+							},
+							"subclass": {
+								"name": "Clockwork Soul (UA)",
+								"shortName": "Clockwork Soul (UA)",
+								"source": "UA2020SubclassesPt2"
+							}
+						}
+					]
+				},
+				"races": [
+					{
+						"name": "Half-Elf (Variant; Mark of Detection)",
+						"source": "ERLW",
+						"baseName": "Half-Elf",
+						"baseSource": "PHB"
+					}
+				],
+				"feats": [
+					{
+						"name": "Adept of the Red Robes",
+						"source": "UA2022HeroesOfKrynn"
+					},
+					{
+						"name": "Adept of the White Robes",
+						"source": "DSotDQ"
+					},
+					{
+						"name": "Adept of the White Robes",
+						"source": "UA2022HeroesOfKrynnRevisited"
+					}
+				],
+				"_isMutEntity": true,
+				"_tmpSourcesInit": true,
+				"_tmpClasses": {},
+				"_tmpRaces": [],
+				"_tmpBackgrounds": [],
+				"_tmpFeats": [],
+				"_tmpOptionalfeatures": [],
+				"_tmpGroups": [],
+				"_normalisedTime": 1,
+				"_normalisedRange": 1440,
+				"_fSources": "PHB",
+				"_isConc": false,
+				"_fMeta": [
+					"Verbal",
+					"Somatic",
+					"SRD"
+				],
+				"_fClasses": [
+					{
+						"item": "Cleric",
+						"userData": {
+							"group": 0
+						},
+						"rendered": null,
+						"searchText": null
+					},
+					{
+						"item": "Druid",
+						"userData": {
+							"group": 0
+						},
+						"rendered": null,
+						"searchText": null
+					},
+					{
+						"item": "Ranger",
+						"userData": {
+							"group": 0
+						},
+						"rendered": null,
+						"searchText": null
+					}
+				],
+				"_fSubclasses": [
+					{
+						"item": "Sorcerer: Favored Soul v2 (UAS)",
+						"nest": "Sorcerer",
+						"userData": {
+							"group": true
+						},
+						"rendered": null,
+						"searchText": null
+					},
+					{
+						"item": "Sorcerer: Favored Soul v3 (UARSC)",
+						"nest": "Sorcerer",
+						"userData": {
+							"group": true
+						},
+						"rendered": null,
+						"searchText": null
+					},
+					{
+						"item": "Sorcerer: Divine Soul",
+						"nest": "Sorcerer",
+						"userData": {
+							"group": false
+						},
+						"rendered": null,
+						"searchText": null
+					},
+					{
+						"item": "Sorcerer: Clockwork Soul (UA20S2)",
+						"nest": "Sorcerer",
+						"userData": {
+							"group": true
+						},
+						"rendered": null,
+						"searchText": null
+					}
+				],
+				"_fVariantClasses": [],
+				"_fClassesAndVariantClasses": [
+					{
+						"item": "Cleric",
+						"userData": {
+							"group": 0
+						},
+						"rendered": null,
+						"searchText": null
+					},
+					{
+						"item": "Druid",
+						"userData": {
+							"group": 0
+						},
+						"rendered": null,
+						"searchText": null
+					},
+					{
+						"item": "Ranger",
+						"userData": {
+							"group": 0
+						},
+						"rendered": null,
+						"searchText": null
+					}
+				],
+				"_fRaces": [
+					{
+						"item": "Half-Elf (Variant; Mark of Detection)",
+						"nest": "Half-Elf",
+						"userData": {
+							"group": 0
+						},
+						"rendered": null,
+						"searchText": null
+					}
+				],
+				"_fBackgrounds": [],
+				"_fFeats": [
+					"Adept of the Red Robes",
+					"Adept of the White Robes",
+					"Adept of the White Robes"
+				],
+				"_fOptionalfeatures": [],
+				"_fGroups": [],
+				"_fTimeType": [
+					"action"
+				],
+				"_fDurationType": "Instant",
+				"_fRangeType": "Point",
+				"_fAreaTags": [],
+				"_fAffectsCreatureType": [
+					"aberration",
+					"beast",
+					"celestial",
+					"construct",
+					"dragon",
+					"elemental",
+					"fey",
+					"fiend",
+					"giant",
+					"humanoid",
+					"monstrosity",
+					"ooze",
+					"plant",
+					"undead"
+				]
+			},
+			"options": {
+				"isSpellScroll": true
+			}
+		},
+		{
+			"page": "items.html",
+			"entity": {
+				"name": "Alchemy Jug",
+				"source": "DMG",
+				"page": 150,
+				"tier": "minor",
+				"rarity": "uncommon",
+				"wondrous": true,
+				"weight": 12,
+				"entries": [
+					"This ceramic jug appears to be able to hold a gallon of liquid and weighs 12 pounds whether full or empty. Sloshing sounds can be heard from within the jug when it is shaken, even if the jug is empty.",
+					"You can use an action and name one liquid from the table below to cause the jug to produce the chosen liquid. Afterward, you can uncork the jug as an action and pour that liquid out, up to 2 gallons per minute. The maximum amount of liquid the jug can produce depends on the liquid you named.",
+					"Once the jug starts producing a liquid, it can't produce a different one, or more of one that has reached its maximum, until the next dawn.",
+					{
+						"type": "table",
+						"colLabels": [
+							"Liquid",
+							"Max Amount"
+						],
+						"colStyles": [
+							"col-2",
+							"col-10"
+						],
+						"rows": [
+							[
+								"Acid",
+								"8 ounces"
+							],
+							[
+								"Basic poison",
+								"½ ounce"
+							],
+							[
+								"Beer",
+								"4 gallons"
+							],
+							[
+								"Honey",
+								"1 gallon"
+							],
+							[
+								"Mayonnaise",
+								"2 gallons"
+							],
+							[
+								"Oil",
+								"1 quart"
+							],
+							[
+								"Vinegar",
+								"2 gallons"
+							],
+							[
+								"Water, fresh",
+								"8 gallons"
+							],
+							[
+								"Water, salt",
+								"12 gallons"
+							],
+							[
+								"Wine",
+								"1 gallon"
+							]
+						]
+					}
+				],
+				"optionalfeatures": [
+					"replicate magic item|tce",
+					"replicate magic item|uaartificerrevisited"
+				],
+				"lootTables": [
+					"Magic Item Table B"
+				],
+				"miscTags": [
+					"CF/W"
+				],
+				"hasFluffImages": true,
+				"__prop": "item",
+				"_isEnhanced": true,
+				"_category": "Other",
+				"_typeListText": [
+					"wondrous item"
+				],
+				"_typeHtml": "wondrous item",
+				"_subTypeHtml": "",
+				"_attunement": null,
+				"_attunementCategory": "No Attunement Required",
+				"_fSources": "DMG",
+				"_fProperties": [],
+				"_fMisc": [
+					"Has Images",
+					"Creates Food/Water",
+					"Magic"
+				],
+				"_fValue": 0,
+				"_fTier": [
+					"minor"
+				],
+				"_fIsMundane": false,
+				"_fBaseItem": [],
+				"_fBaseItemAll": [],
+				"_fBonus": [],
+				"_fAttunement": [
+					"No Attunement Required"
+				]
+			}
+		},
+		{
+			"page": "items.html",
+			"entity": {
+				"name": "Potion of Fire Resistance",
+				"source": "DMG",
+				"page": 188,
+				"srd": true,
+				"type": "P",
+				"resist": [
+					"fire"
+				],
+				"tier": "minor",
+				"rarity": "uncommon",
+				"hasRefs": true,
+				"entries": [
+					"When you drink this potion, you gain resistance to fire damage for 1 hour."
+				],
+				"__prop": "item",
+				"_isEnhanced": true,
+				"_category": "Other",
+				"_typeListText": [
+					"potion"
+				],
+				"_typeHtml": "potion",
+				"_subTypeHtml": "",
+				"_attunement": null,
+				"_attunementCategory": "No Attunement Required",
+				"_fSources": "DMG",
+				"_fProperties": [],
+				"_fMisc": [
+					"SRD",
+					"Magic"
+				],
+				"_fValue": 0,
+				"_fTier": [
+					"minor"
+				],
+				"_fIsMundane": false,
+				"_fBaseItem": [],
+				"_fBaseItemAll": [],
+				"_fBonus": [],
+				"_fAttunement": [
+					"No Attunement Required"
+				]
+			}
+		},
+		{
+			"page": "items.html",
+			"entity": {
+				"name": "Goggles of Night",
+				"source": "DMG",
+				"page": 172,
+				"srd": true,
+				"basicRules": true,
+				"tier": "minor",
+				"rarity": "uncommon",
+				"wondrous": true,
+				"entries": [
+					"While wearing these dark lenses, you have {@sense darkvision} out to a range of 60 feet. If you already have {@sense darkvision}, wearing the goggles increases its range by 60 feet."
+				],
+				"optionalfeatures": [
+					"replicate magic item|tce",
+					"replicate magic item|uaartificerrevisited"
+				],
+				"lootTables": [
+					"Magic Item Table B"
+				],
+				"hasFluffImages": true,
+				"__prop": "item",
+				"_isEnhanced": true,
+				"_category": "Other",
+				"_typeListText": [
+					"wondrous item"
+				],
+				"_typeHtml": "wondrous item",
+				"_subTypeHtml": "",
+				"_attunement": null,
+				"_attunementCategory": "No Attunement Required",
+				"_fSources": "DMG",
+				"_fProperties": [],
+				"_fMisc": [
+					"SRD",
+					"Basic Rules",
+					"Has Images",
+					"Magic"
+				],
+				"_fValue": 0,
+				"_fTier": [
+					"minor"
+				],
+				"_fIsMundane": false,
+				"_fBaseItem": [],
+				"_fBaseItemAll": [],
+				"_fBonus": [],
+				"_fAttunement": [
+					"No Attunement Required"
+				]
+			}
+		},
+		{
+			"page": "items.html",
+			"entity": {
+				"name": "Potion of Fire Breath",
+				"source": "DMG",
+				"page": 187,
+				"type": "P",
+				"tier": "minor",
+				"rarity": "uncommon",
+				"entries": [
+					"After drinking this potion, you can use a bonus action to exhale fire at a target within 30 feet of you. The target must make a DC 13 Dexterity saving throw, taking {@damage 4d6} fire damage on a failed save, or half as much damage on a successful one. The effect ends after you exhale the fire three times or when 1 hour has passed. This potion's orange liquid flickers, and smoke fills the top of the container and wafts out whenever it is opened."
+				],
+				"lootTables": [
+					"Magic Item Table B"
+				],
+				"__prop": "item",
+				"_isEnhanced": true,
+				"_category": "Other",
+				"_typeListText": [
+					"potion"
+				],
+				"_typeHtml": "potion",
+				"_subTypeHtml": "",
+				"_attunement": null,
+				"_attunementCategory": "No Attunement Required",
+				"_fSources": "DMG",
+				"_fProperties": [],
+				"_fMisc": [
+					"Magic"
+				],
+				"_fValue": 0,
+				"_fTier": [
+					"minor"
+				],
+				"_fIsMundane": false,
+				"_fBaseItem": [],
+				"_fBaseItemAll": [],
+				"_fBonus": [],
+				"_fAttunement": [
+					"No Attunement Required"
+				]
+			}
+		},
+		{
+			"page": "items.html",
+			"entity": {
+				"name": "Dust of Sneezing and Choking",
+				"source": "DMG",
+				"page": 166,
+				"srd": true,
+				"tier": "minor",
+				"rarity": "uncommon",
+				"wondrous": true,
+				"entries": [
+					"Found in a small container, this powder resembles very fine sand. It appears to be {@item dust of disappearance}, and an {@spell identify} spell reveals it to be such. There is enough of it for one use.",
+					"When you use an action to throw a handful of the dust into the air, you and each creature that needs to breathe within 30 feet of you must succeed on a DC 15 Constitution saving throw or become unable to breathe while sneezing uncontrollably. A creature affected in this way is {@condition incapacitated} and suffocating. As long as it is conscious, a creature can repeat the saving throw at the end of each of its turns, ending the effect on it on a success. The {@spell lesser restoration} spell can also end the effect on a creature."
+				],
+				"lootTables": [
+					"Magic Item Table B"
+				],
+				"hasFluffImages": true,
+				"__prop": "item",
+				"_isEnhanced": true,
+				"_category": "Other",
+				"_typeListText": [
+					"wondrous item"
+				],
+				"_typeHtml": "wondrous item",
+				"_subTypeHtml": "",
+				"_attunement": null,
+				"_attunementCategory": "No Attunement Required",
+				"_fSources": "DMG",
+				"_fProperties": [],
+				"_fMisc": [
+					"SRD",
+					"Has Images",
+					"Magic"
+				],
+				"_fValue": 0,
+				"_fTier": [
+					"minor"
+				],
+				"_fIsMundane": false,
+				"_fBaseItem": [],
+				"_fBaseItemAll": [],
+				"_fBonus": [],
+				"_fAttunement": [
+					"No Attunement Required"
+				]
+			}
+		},
+		{
+			"page": "items.html",
+			"entity": {
+				"name": "Lantern of Revealing",
+				"source": "DMG",
+				"page": 179,
+				"srd": true,
+				"tier": "minor",
+				"rarity": "uncommon",
+				"wondrous": true,
+				"weight": 2,
+				"entries": [
+					"While lit, this {@item hooded lantern|phb} burns for 6 hours on 1 pint of oil, shedding bright light in a 30-foot radius and dim light for an additional 30 feet. {@condition Invisible} creatures and objects are visible as long as they are in the lantern's bright light. You can use an action to lower the hood, reducing the light to dim light in a 5-foot radius."
+				],
+				"optionalfeatures": [
+					"replicate magic item|tce",
+					"replicate magic item|uaartificerrevisited"
+				],
+				"lootTables": [
+					"Magic Item Table B"
+				],
+				"hasFluffImages": true,
+				"__prop": "item",
+				"_isEnhanced": true,
+				"_category": "Other",
+				"_typeListText": [
+					"wondrous item"
+				],
+				"_typeHtml": "wondrous item",
+				"_subTypeHtml": "",
+				"_attunement": null,
+				"_attunementCategory": "No Attunement Required",
+				"_fSources": "DMG",
+				"_fProperties": [],
+				"_fMisc": [
+					"SRD",
+					"Has Images",
+					"Magic"
+				],
+				"_fValue": 0,
+				"_fTier": [
+					"minor"
+				],
+				"_fIsMundane": false,
+				"_fBaseItem": [],
+				"_fBaseItemAll": [],
+				"_fBonus": [],
+				"_fAttunement": [
+					"No Attunement Required"
+				]
+			}
+		},
+		{
+			"page": "items.html",
+			"entity": {
+				"name": "Saddle of the Cavalier",
+				"source": "DMG",
+				"page": 199,
+				"tier": "minor",
+				"rarity": "uncommon",
+				"wondrous": true,
+				"entries": [
+					"While in this saddle on a mount, you can't be dismounted against your will if you're conscious, and attack rolls against the mount have disadvantage."
+				],
+				"lootTables": [
+					"Magic Item Table B"
+				],
+				"__prop": "item",
+				"_isEnhanced": true,
+				"_category": "Other",
+				"_typeListText": [
+					"wondrous item"
+				],
+				"_typeHtml": "wondrous item",
+				"_subTypeHtml": "",
+				"_attunement": null,
+				"_attunementCategory": "No Attunement Required",
+				"_fSources": "DMG",
+				"_fProperties": [],
+				"_fMisc": [
+					"Magic"
+				],
+				"_fValue": 0,
+				"_fTier": [
+					"minor"
+				],
+				"_fIsMundane": false,
+				"_fBaseItem": [],
+				"_fBaseItemAll": [],
+				"_fBonus": [],
+				"_fAttunement": [
+					"No Attunement Required"
+				]
+			}
+		},
+		{
+			"page": "spells.html",
+			"entity": {
+				"name": "Incite Greed",
+				"source": "AI",
+				"page": 76,
+				"level": 3,
+				"school": "E",
+				"time": [
+					{
+						"number": 1,
+						"unit": "action"
+					}
+				],
+				"range": {
+					"type": "point",
+					"distance": {
+						"type": "feet",
+						"amount": 30
+					}
+				},
+				"components": {
+					"v": true,
+					"s": true,
+					"m": {
+						"text": "a gem worth at least 50 gp",
+						"cost": 5000
+					}
+				},
+				"duration": [
+					{
+						"type": "timed",
+						"duration": {
+							"type": "minute",
+							"amount": 1
+						},
+						"concentration": true
+					}
+				],
+				"entries": [
+					"When you cast this spell, you present the gem used as the material component and choose any number of creatures within range that can see you. Each target must succeed on a Wisdom saving throw or be {@condition charmed} by you until the spell ends, or until you or your companions do anything harmful to it. While {@condition charmed} in this way, a creature can do nothing but use its movement to approach you in a safe manner. While an affected creature is within 5 feet of you, it cannot move, but simply stares greedily at the gem you present.",
+					"At the end of each of its turns, an affected target can make a Wisdom saving throw. If it succeeds, this effect ends for that target."
+				],
+				"conditionInflict": [
+					"charmed"
+				],
+				"savingThrow": [
+					"wisdom"
+				],
+				"miscTags": [
+					"SGT"
+				],
+				"areaTags": [
+					"MT"
+				],
+				"__prop": "spell",
+				"classes": {
+					"fromClassList": [
+						{
+							"name": "Cleric",
+							"source": "PHB"
+						},
+						{
+							"name": "Wizard",
+							"source": "PHB"
+						},
+						{
+							"name": "Warlock",
+							"source": "PHB"
+						}
+					],
+					"fromSubclass": [
+						{
+							"class": {
+								"name": "Fighter",
+								"source": "PHB"
+							},
+							"subclass": {
+								"name": "Eldritch Knight",
+								"shortName": "Eldritch Knight",
+								"source": "PHB"
+							}
+						},
+						{
+							"class": {
+								"name": "Rogue",
+								"source": "PHB"
+							},
+							"subclass": {
+								"name": "Arcane Trickster",
+								"shortName": "Arcane Trickster",
+								"source": "PHB"
+							}
+						},
+						{
+							"class": {
+								"name": "Sorcerer",
+								"source": "PHB"
+							},
+							"subclass": {
+								"name": "Favored Soul v2 (UA)",
+								"shortName": "Favored Soul v2 (UA)",
+								"source": "UASorcerer"
+							}
+						},
+						{
+							"class": {
+								"name": "Sorcerer",
+								"source": "PHB"
+							},
+							"subclass": {
+								"name": "Favored Soul v3 (UA)",
+								"shortName": "Favored Soul v3 (UA)",
+								"source": "UARevisedSubclasses"
+							}
+						},
+						{
+							"class": {
+								"name": "Sorcerer",
+								"source": "PHB"
+							},
+							"subclass": {
+								"name": "Divine Soul",
+								"shortName": "Divine Soul",
+								"source": "XGE"
+							}
+						}
+					]
+				},
+				"_isMutEntity": true,
+				"_tmpSourcesInit": true,
+				"_tmpClasses": {},
+				"_tmpRaces": [],
+				"_tmpBackgrounds": [],
+				"_tmpFeats": [],
+				"_tmpOptionalfeatures": [],
+				"_tmpGroups": [],
+				"_normalisedTime": 1,
+				"_normalisedRange": 360,
+				"_fSources": "AI",
+				"_isConc": true,
+				"_fMeta": [
+					"Concentration",
+					"Verbal",
+					"Somatic",
+					"Material",
+					"Material with Cost",
+					"SGT"
+				],
+				"_fClasses": [
+					{
+						"item": "Cleric",
+						"userData": {
+							"group": 0
+						},
+						"rendered": null,
+						"searchText": null
+					},
+					{
+						"item": "Wizard",
+						"userData": {
+							"group": 0
+						},
+						"rendered": null,
+						"searchText": null
+					},
+					{
+						"item": "Warlock",
+						"userData": {
+							"group": 0
+						},
+						"rendered": null,
+						"searchText": null
+					}
+				],
+				"_fSubclasses": [
+					{
+						"item": "Fighter: Eldritch Knight",
+						"nest": "Fighter",
+						"userData": {
+							"group": false
+						},
+						"rendered": null,
+						"searchText": null
+					},
+					{
+						"item": "Rogue: Arcane Trickster",
+						"nest": "Rogue",
+						"userData": {
+							"group": false
+						},
+						"rendered": null,
+						"searchText": null
+					},
+					{
+						"item": "Sorcerer: Favored Soul v2 (UAS)",
+						"nest": "Sorcerer",
+						"userData": {
+							"group": true
+						},
+						"rendered": null,
+						"searchText": null
+					},
+					{
+						"item": "Sorcerer: Favored Soul v3 (UARSC)",
+						"nest": "Sorcerer",
+						"userData": {
+							"group": true
+						},
+						"rendered": null,
+						"searchText": null
+					},
+					{
+						"item": "Sorcerer: Divine Soul",
+						"nest": "Sorcerer",
+						"userData": {
+							"group": false
+						},
+						"rendered": null,
+						"searchText": null
+					}
+				],
+				"_fVariantClasses": [],
+				"_fClassesAndVariantClasses": [
+					{
+						"item": "Cleric",
+						"userData": {
+							"group": 0
+						},
+						"rendered": null,
+						"searchText": null
+					},
+					{
+						"item": "Wizard",
+						"userData": {
+							"group": 0
+						},
+						"rendered": null,
+						"searchText": null
+					},
+					{
+						"item": "Warlock",
+						"userData": {
+							"group": 0
+						},
+						"rendered": null,
+						"searchText": null
+					}
+				],
+				"_fRaces": [],
+				"_fBackgrounds": [],
+				"_fFeats": [],
+				"_fOptionalfeatures": [],
+				"_fGroups": [],
+				"_fTimeType": [
+					"action"
+				],
+				"_fDurationType": "1 Minute",
+				"_fRangeType": "Point",
+				"_fAreaTags": [
+					"MT"
+				],
+				"_fAffectsCreatureType": [
+					"aberration",
+					"beast",
+					"celestial",
+					"construct",
+					"dragon",
+					"elemental",
+					"fey",
+					"fiend",
+					"giant",
+					"humanoid",
+					"monstrosity",
+					"ooze",
+					"plant",
+					"undead"
+				]
+			},
+			"options": {
+				"isSpellScroll": true
+			}
+		},
+		{
+			"page": "items.html",
+			"entity": {
+				"name": "Potion of Radiant Resistance",
+				"source": "DMG",
+				"page": 188,
+				"srd": true,
+				"type": "P",
+				"resist": [
+					"radiant"
+				],
+				"tier": "minor",
+				"rarity": "uncommon",
+				"hasRefs": true,
+				"entries": [
+					"When you drink this potion, you gain resistance to radiant damage for 1 hour."
+				],
+				"__prop": "item",
+				"_isEnhanced": true,
+				"_category": "Other",
+				"_typeListText": [
+					"potion"
+				],
+				"_typeHtml": "potion",
+				"_subTypeHtml": "",
+				"_attunement": null,
+				"_attunementCategory": "No Attunement Required",
+				"_fSources": "DMG",
+				"_fProperties": [],
+				"_fMisc": [
+					"SRD",
+					"Magic"
+				],
+				"_fValue": 0,
+				"_fTier": [
+					"minor"
+				],
+				"_fIsMundane": false,
+				"_fBaseItem": [],
+				"_fBaseItemAll": [],
+				"_fBonus": [],
+				"_fAttunement": [
+					"No Attunement Required"
+				]
+			}
+		},
+		{
+			"page": "items.html",
+			"entity": {
+				"name": "Keoghtom's Ointment",
+				"source": "DMG",
+				"page": 179,
+				"srd": "Restorative Ointment",
+				"basicRules": true,
+				"tier": "minor",
+				"rarity": "uncommon",
+				"wondrous": true,
+				"entries": [
+					"This glass jar, 3 inches in diameter, contains {@dice 1d4 + 1} doses of a thick mixture that smells faintly of aloe. The jar and its contents weigh ½ pound.",
+					"As an action, one dose of the ointment can be swallowed or applied to the skin. The creature that receives it regains {@dice 2d8 + 2} hit points, ceases to be {@condition poisoned}, and is cured of any disease."
+				],
+				"lootTables": [
+					"Magic Item Table B"
+				],
+				"hasFluffImages": true,
+				"__prop": "item",
+				"_isEnhanced": true,
+				"_category": "Other",
+				"_typeListText": [
+					"wondrous item"
+				],
+				"_typeHtml": "wondrous item",
+				"_subTypeHtml": "",
+				"_attunement": null,
+				"_attunementCategory": "No Attunement Required",
+				"_fSources": "DMG",
+				"_fProperties": [],
+				"_fMisc": [
+					"SRD",
+					"Basic Rules",
+					"Has Images",
+					"Magic"
+				],
+				"_fValue": 0,
+				"_fTier": [
+					"minor"
+				],
+				"_fIsMundane": false,
+				"_fBaseItem": [],
+				"_fBaseItemAll": [],
+				"_fBonus": [],
+				"_fAttunement": [
+					"No Attunement Required"
+				]
+			}
+		},
+		{
+			"page": "items.html",
+			"entity": {
+				"name": "Cloak of the Manta Ray",
+				"source": "DMG",
+				"page": 159,
+				"srd": true,
+				"tier": "minor",
+				"rarity": "uncommon",
+				"wondrous": true,
+				"modifySpeed": {
+					"static": {
+						"swim": 60
+					}
+				},
+				"entries": [
+					"While wearing this cloak with its hood up, you can breathe underwater, and you have a swimming speed of 60 feet. Pulling the hood up or down requires an action."
+				],
+				"optionalfeatures": [
+					"replicate magic item|tce",
+					"replicate magic item|uaartificerrevisited"
+				],
+				"lootTables": [
+					"Magic Item Table B"
+				],
+				"hasFluffImages": true,
+				"__prop": "item",
+				"_isEnhanced": true,
+				"_category": "Other",
+				"_typeListText": [
+					"wondrous item"
+				],
+				"_typeHtml": "wondrous item",
+				"_subTypeHtml": "",
+				"_attunement": null,
+				"_attunementCategory": "No Attunement Required",
+				"_fSources": "DMG",
+				"_fProperties": [],
+				"_fMisc": [
+					"SRD",
+					"Has Images",
+					"Magic",
+					"Speed Adjustment"
+				],
+				"_fValue": 0,
+				"_fTier": [
+					"minor"
+				],
+				"_fIsMundane": false,
+				"_fBaseItem": [],
+				"_fBaseItemAll": [],
+				"_fBonus": [],
+				"_fAttunement": [
+					"No Attunement Required"
+				]
+			}
+		},
+		{
+			"page": "items.html",
+			"entity": {
+				"name": "Scroll of Protection from Beasts",
+				"source": "DMG",
+				"page": 199,
+				"type": "SC",
+				"tier": "minor",
+				"rarity": "rare",
+				"entries": [
+					"Using an action to read the scroll encloses you in an {@condition invisible} barrier that extends from you to form a 5-foot-radius, 10-foot-high cylinder. For 5 minutes, this barrier prevents beasts from entering or affecting anything within the cylinder. The cylinder moves with you and remains centered on you. However, if you move in such a way that a beast would be inside the cylinder, the effect ends. A creature can attempt to overcome the barrier by using an action to make a DC 15 Charisma check. On a success, the creature ceases to be affected by the barrier."
+				],
+				"__prop": "item",
+				"_isEnhanced": true,
+				"_category": "Other",
+				"_typeListText": [
+					"scroll"
+				],
+				"_typeHtml": "scroll",
+				"_subTypeHtml": "",
+				"_attunement": null,
+				"_attunementCategory": "No Attunement Required",
+				"_fSources": "DMG",
+				"_fProperties": [],
+				"_fMisc": [
+					"Magic"
+				],
+				"_fValue": 0,
+				"_fTier": [
+					"minor"
+				],
+				"_fIsMundane": false,
+				"_fBaseItem": [],
+				"_fBaseItemAll": [],
+				"_fBonus": [],
+				"_fAttunement": [
+					"No Attunement Required"
+				]
+			}
+		},
+		{
+			"page": "items.html",
+			"entity": {
+				"name": "Potion of Stone Giant Strength",
+				"source": "DMG",
+				"page": 187,
+				"srd": true,
+				"type": "P",
+				"tier": "minor",
+				"rarity": "rare",
+				"ability": {
+					"static": {
+						"str": 23
+					}
+				},
+				"entries": [
+					"When you drink this potion, your Strength score changes to 23 for 1 hour. The potion has no effect on you if your Strength is equal to or greater than that score.",
+					"This potion's transparent liquid has floating in it a sliver of fingernail from a {@creature stone giant}."
+				],
+				"lootTables": [
+					"Magic Item Table C"
+				],
+				"__prop": "item",
+				"_isEnhanced": true,
+				"_category": "Other",
+				"_typeListText": [
+					"potion"
+				],
+				"_typeHtml": "potion",
+				"_subTypeHtml": "",
+				"_attunement": null,
+				"_attunementCategory": "No Attunement Required",
+				"_fSources": "DMG",
+				"_fProperties": [],
+				"_fMisc": [
+					"SRD",
+					"Magic",
+					"Ability Score Adjustment"
+				],
+				"_fValue": 0,
+				"_fTier": [
+					"minor"
+				],
+				"_fIsMundane": false,
+				"_fBaseItem": [],
+				"_fBaseItemAll": [],
+				"_fBonus": [],
+				"_fAttunement": [
+					"No Attunement Required"
+				]
+			}
+		},
+		{
+			"page": "items.html",
+			"entity": {
+				"name": "Folding Boat",
+				"source": "DMG",
+				"page": 170,
+				"srd": true,
+				"tier": "minor",
+				"rarity": "rare",
+				"wondrous": true,
+				"weight": 4,
+				"entries": [
+					"This object appears as a wooden box that measures 12 inches long, 6 inches wide, and 6 inches deep. It weighs 4 pounds and floats. It can be opened to store items inside. This item also has three command words, each requiring you to use an action to speak it.",
+					"One command word causes the box to unfold into a boat 10 feet long, 4 feet wide, and 2 feet deep. The boat has one pair of oars, an anchor, a mast, and a lateen sail. The boat can hold up to four Medium creatures comfortably.",
+					"The second command word causes the box to unfold into a ship 24 feet long, 8 feet wide; and 6 feet deep. The ship has a deck, rowing seats, five sets of oars, a steering oar, an anchor, a deck cabin, and a mast with a square sail. The ship can hold fifteen Medium creatures comfortably.",
+					"When the box becomes a vessel, its weight becomes that of a normal vessel its size, and anything that was stored in the box remains in the boat.",
+					"The third command word causes the folding boat to fold back into a box, provided that no creatures are aboard. Any objects in the vessel that can't fit inside the box remain outside the box as it folds. Any objects in the vessel that can fit inside the box do so."
+				],
+				"lootTables": [
+					"Magic Item Table C"
+				],
+				"hasFluffImages": true,
+				"__prop": "item",
+				"_isEnhanced": true,
+				"_category": "Other",
+				"_typeListText": [
+					"wondrous item"
+				],
+				"_typeHtml": "wondrous item",
+				"_subTypeHtml": "",
+				"_attunement": null,
+				"_attunementCategory": "No Attunement Required",
+				"_fSources": "DMG",
+				"_fProperties": [],
+				"_fMisc": [
+					"SRD",
+					"Has Images",
+					"Magic"
+				],
+				"_fValue": 0,
+				"_fTier": [
+					"minor"
+				],
+				"_fIsMundane": false,
+				"_fBaseItem": [],
+				"_fBaseItemAll": [],
+				"_fBonus": [],
+				"_fAttunement": [
+					"No Attunement Required"
+				]
+			}
+		},
+		{
+			"page": "items.html",
+			"entity": {
+				"name": "Scroll of Protection from Fiends",
+				"source": "DMG",
+				"page": 199,
+				"type": "SC",
+				"tier": "minor",
+				"rarity": "rare",
+				"entries": [
+					"Using an action to read the scroll encloses you in an {@condition invisible} barrier that extends from you to form a 5-foot-radius, 10-foot-high cylinder. For 5 minutes, this barrier prevents fiends from entering or affecting anything within the cylinder. The cylinder moves with you and remains centered on you. However, if you move in such a way that a fiend would be inside the cylinder, the effect ends. A creature can attempt to overcome the barrier by using an action to make a DC 15 Charisma check. On a success, the creature ceases to be affected by the barrier."
+				],
+				"__prop": "item",
+				"_isEnhanced": true,
+				"_category": "Other",
+				"_typeListText": [
+					"scroll"
+				],
+				"_typeHtml": "scroll",
+				"_subTypeHtml": "",
+				"_attunement": null,
+				"_attunementCategory": "No Attunement Required",
+				"_fSources": "DMG",
+				"_fProperties": [],
+				"_fMisc": [
+					"Magic"
+				],
+				"_fValue": 0,
+				"_fTier": [
+					"minor"
+				],
+				"_fIsMundane": false,
+				"_fBaseItem": [],
+				"_fBaseItemAll": [],
+				"_fBonus": [],
+				"_fAttunement": [
+					"No Attunement Required"
+				]
+			}
+		},
+		{
+			"page": "items.html",
+			"entity": {
+				"name": "Potion of Diminution",
+				"source": "DMG",
+				"page": 187,
+				"srd": true,
+				"type": "P",
+				"tier": "minor",
+				"rarity": "rare",
+				"entries": [
+					"When you drink this potion, you gain the \"reduce\" effect of the {@spell enlarge/reduce} spell for {@dice 1d4} hours (no concentration required). The red in the potion's liquid continuously contracts to a tiny bead and then expands to color the clear liquid around it. Shaking the bottle fails to interrupt this process."
+				],
+				"attachedSpells": [
+					"enlarge/reduce"
+				],
+				"lootTables": [
+					"Magic Item Table C"
+				],
+				"__prop": "item",
+				"_isEnhanced": true,
+				"_category": "Other",
+				"_typeListText": [
+					"potion"
+				],
+				"_typeHtml": "potion",
+				"_subTypeHtml": "",
+				"_attunement": null,
+				"_attunementCategory": "No Attunement Required",
+				"_fSources": "DMG",
+				"_fProperties": [],
+				"_fMisc": [
+					"SRD",
+					"Magic"
+				],
+				"_fValue": 0,
+				"_fTier": [
+					"minor"
+				],
+				"_fIsMundane": false,
+				"_fBaseItem": [],
+				"_fBaseItemAll": [],
+				"_fBonus": [],
+				"_fAttunement": [
+					"No Attunement Required"
+				]
+			}
+		},
+		{
+			"page": "items.html",
+			"entity": {
+				"name": "Bag of Devouring",
+				"source": "DMG",
+				"page": 153,
+				"srd": true,
+				"tier": "minor",
+				"rarity": "very rare",
+				"wondrous": true,
+				"weight": 15,
+				"entries": [
+					"This bag superficially resembles a {@item bag of holding} but is a feeding orifice for a gigantic extradimensional creature. Turning the bag inside out closes the orifice.",
+					"The extradimensional creature attached to the bag can sense whatever is placed inside the bag. Animal or vegetable matter placed wholly in the bag is devoured and lost forever. When part of a living creature is placed in the bag, as happens when someone reaches inside it, there is a {@chance 50} chance that the creature is pulled inside the bag. A creature inside the bag can use its action to try to escape with a successful DC 15 Strength check. Another creature can use its action to reach into the bag to pull a creature out, doing so with a successful DC 20 Strength check (provided it isn't pulled inside the bag first). Any creature that starts its turn inside the bag is devoured, its body destroyed.",
+					"Inanimate objects can be stored in the bag, which can hold a cubic foot of such material. However, once each day, the bag swallows any objects inside it and spits them out into another plane of existence. The DM determines the time and plane.",
+					"If the bag is pierced or torn, it is destroyed, and anything contained within it is transported to a random location on the Astral Plane."
+				],
+				"lootTables": [
+					"Magic Item Table D"
+				],
+				"hasFluffImages": true,
+				"__prop": "item",
+				"_isEnhanced": true,
+				"_category": "Other",
+				"_typeListText": [
+					"wondrous item"
+				],
+				"_typeHtml": "wondrous item",
+				"_subTypeHtml": "",
+				"_attunement": null,
+				"_attunementCategory": "No Attunement Required",
+				"_fSources": "DMG",
+				"_fProperties": [],
+				"_fMisc": [
+					"SRD",
+					"Has Images",
+					"Magic"
+				],
+				"_fValue": 0,
+				"_fTier": [
+					"minor"
+				],
+				"_fIsMundane": false,
+				"_fBaseItem": [],
+				"_fBaseItemAll": [],
+				"_fBonus": [],
+				"_fAttunement": [
+					"No Attunement Required"
+				]
+			}
+		}
+	]
+}
