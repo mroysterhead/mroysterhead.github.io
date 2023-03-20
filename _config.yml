@@ -14,27 +14,16 @@ author: MrOysterhead
 # --- List of links in the navigation bar --- #
 
 navbar-links:
-  my stuff:
-    - food stuff: "food"
-    - work stuff: "work"
-    - technotes: "notes"
-  stuff i care about:
+  Chapters:
+    - Chapter One: "chapter1"
+    - Chapter Two: "notes"
+  External Links:
     - Plant prairie habitat for the bees: "https://environmentamerica.webaction.org/p/dia/action4/common/public/?action_KEY=52559"
     - The Dark Side of Automation: "https://points.datasociety.net/the-robots-are-just-automated-management-tools-b9bf28c4434"
     - The Social Dilemma: "https://www.thesocialdilemma.com/"
     - Facebook is dangerous: "https://stallman.org/facebook.html"
     - No Private Security Forces at Polling Places: "https://act.winwithoutwar.org/act/private-security-election"
-  stuff i like: 
-    - The Forms of Freedom: "https://www.youtube.com/watch?v=FqPwr-cVz_M"
-    - Puppet Roles and Profiles: "http://garylarizza.com/blog/2014/02/17/puppet-workflow-part-2/"
-    - crimethinc: "https://crimethinc.com/"
-    - bellingcat: "https://www.bellingcat.com/"
-    - AKpress: "https://www.akpress.org/"
-    - Anarchist Library: "https://theanarchistlibrary.org/"
-    - LWN: "https://lwn.net/"
-  D&D stuff:
-    - Chapter One: "wildemount-chapter-one"
-    - Chapter Two: "wildemount-chapter-two"
+
 
 
 # --- Logo --- #
@@ -59,13 +48,12 @@ social-network-links:
   email: "tim@timlawrence.org"
 #  rss: true  # remove this line if you don't want to show an RSS link at the bottom
 #  facebook: deanattali
-  github: MrOysterhead
+  github: itemforge
 #  twitter: Mr_Oysterhead
 #  patreon: DeanAttali
 #  youtube: c/daattali
 #  medium: yourname
 #  reddit: yourname
-  linkedin: timmylawrence
 #  xing: yourname
 #  stackoverflow: "3943160/daattali"
 #  snapchat: deanat78
@@ -77,7 +65,6 @@ social-network-links:
 #  yelp: yourname
 #  telegram: yourname
 #  calendly: yourname
-  mastodon: mastodon.sdf.org/@mroysterhead
 #  ORCID: your ORCID ID
 #  google-scholar: your google scholar
 #  discord: invite/invite_code or users/userid 
