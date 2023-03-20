@@ -6,7 +6,7 @@
 # --- Required options --- #
 
 # Name of website
-title: Tim
+title: Rite of Aegis
 
 # Your name to show in the footer
 author: MrOysterhead
@@ -16,7 +16,7 @@ author: MrOysterhead
 navbar-links:
   Chapters:
     - Chapter One: "chapter1"
-    - Chapter Two: "notes"
+    - Chapter Two: "chapter2"
   External Links:
     - Plant prairie habitat for the bees: "https://environmentamerica.webaction.org/p/dia/action4/common/public/?action_KEY=52559"
     - The Dark Side of Automation: "https://points.datasociety.net/the-robots-are-just-automated-management-tools-b9bf28c4434"
