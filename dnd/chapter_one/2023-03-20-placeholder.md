@@ -1,7 +1,7 @@
 ---
 layout: post
-title: Placeholder
-subtitle: DnD Stuff
+title: D&D, Wildemount Chapter One
+subtitle: 
 #gh-repo: daattali/beautiful-jekyll
 #gh-badge: [star, fork, follow]
 thumbnail-img:
