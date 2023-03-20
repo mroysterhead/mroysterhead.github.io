@@ -1,6 +1,6 @@
 ---
 layout: post
-title: intro
+title: Session Zero
 subtitle: 
 thumbnail-img:
 tags: [dnd, wildemount]

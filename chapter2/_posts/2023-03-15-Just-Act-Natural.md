@@ -1,6 +1,6 @@
 ---
 layout: post
-title: intro
+title: Just Act Natural
 subtitle: 
 thumbnail-img:
 tags: [dnd, wildemount]
