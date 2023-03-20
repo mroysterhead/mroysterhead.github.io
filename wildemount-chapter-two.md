@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Wildemount Chapter Two
-subtitle: Frigid Woe
+subtitle: Rite of Aegis
 ---
 
 ToDo:
