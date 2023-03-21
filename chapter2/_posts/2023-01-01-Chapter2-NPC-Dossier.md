@@ -28,5 +28,9 @@ Fedir found you and brought you to saloon.
 
 <img src="https://i.imgur.com/AgB4LGl.png" width="50%" height="50%">
 
-Owner of the Line and Gaffe.
+Owner of the Line and Gaffe, She inherited it from her late father, Arelm.
+
+# Artemis
+
+# Connolly
 
