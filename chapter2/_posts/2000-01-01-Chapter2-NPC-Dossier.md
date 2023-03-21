@@ -10,7 +10,8 @@ comments: true
 
 # Aife
 
-![Aife](https://i.imgur.com/VfewCBA.jpg){: .mx-auto.d-block :}
+<img src="https://i.imgur.com/VfewCBA.jpg" alt= “Aife” width="50%" height="50%">
+
 Aife is apparent leader of the Rite of Aegis.  She is a tall elf with erudite presence.  She speaks with an Irish lilt and hails from Foren in Empire Strand.  The details of her background are unknown.
 
 

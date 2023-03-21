@@ -3,7 +3,7 @@ layout: post
 title: Foren's Fer Foren Folk
 subtitle: 
 thumbnail-img:
-tags: [dnd, wildemount]
+tags: [dnd, wildemount, Chapter 2, tdp]
 comments: true
 --- 
  
