@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Chapter Two NPC Dossier
+title: Chapter Two Locationss
 subtitle: Key Locations
 thumbnail-img:
 tags: [dnd, wildemount, Chapter 2, locations]
