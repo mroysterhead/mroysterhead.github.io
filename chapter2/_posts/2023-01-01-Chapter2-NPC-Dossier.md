@@ -24,4 +24,9 @@ I'm having great difficulty finding a picture of an Iroquoian wizard that doesn'
 Fedir is a short half elf bard.  He is very wiry with a mustache and goatee and round glasses.  He is abrasive.  He speaks with a Slavic accent and plays a balalaika.
 Fedir found you and brought you to saloon.
 
+# Talitha Wixby
+
+<img src="https://i.imgur.com/AgB4LGl.png" width="50%" height="50%">
+
+Owner of the Line and Gaffe.
 
