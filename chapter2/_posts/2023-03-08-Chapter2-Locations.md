@@ -2,7 +2,7 @@
 layout: post
 title: Chapter Two Locationss
 subtitle: Key Locations
-thumbnail-img:
+thumbnail-img: https://static.wikia.nocookie.net/criticalrole/images/9/90/Wildemount_Poster_Map.jpg
 tags: [dnd, wildemount, Chapter 2, tdp, locations, Saloon, Balenport]
 comments: true
 --- 
