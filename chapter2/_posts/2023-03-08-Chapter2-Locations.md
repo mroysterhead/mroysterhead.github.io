@@ -5,6 +5,7 @@ subtitle: Key Locations
 thumbnail-img:
 tags: [dnd, wildemount, Chapter 2, locations]
 comments: true
+font-family: "Fasthand", cursive
 --- 
  
 
