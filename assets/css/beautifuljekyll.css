@@ -415,21 +415,28 @@ footer .list-inline {
   padding: 0;
   margin-bottom: 1.875rem;
 }
+footer {
+  font-family: 'Cinzel', serif;
+}
+
 footer .copyright {
-  font-family: 'Open Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif;
+  font-family: 'Cinzel', serif;
   text-align: center;
   margin-bottom: 0;
   margin-top: 0;
 }
+
 footer .theme-by {
   text-align: center;
   margin: 0.625rem 0 0;
 }
+
 footer .footer-custom-content {
   text-align: center;
   margin-bottom: 0.9375rem;
-  font-family: 'Open Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif;
+  font-family: 'Cinzel', serif;
 }
+
 
 @media (min-width: 768px) {
   footer {
