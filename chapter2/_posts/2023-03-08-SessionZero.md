@@ -2,8 +2,8 @@
 layout: post
 title: Session Zero
 subtitle: 
-thumbnail-img:
-tags: [dnd, wildemount, tdp]
+thumbnail-img: https://i.imgur.com/siyb3bx.png
+tags: [dnd, wildemount, tdp, saloon]
 comments: true
 --- 
  

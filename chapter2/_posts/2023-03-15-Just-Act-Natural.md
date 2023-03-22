@@ -2,7 +2,7 @@
 layout: post
 title: Just Act Natural
 subtitle: 
-thumbnail-img:
+thumbnail-img: https://i.imgur.com/i3PS6tE.png
 tags: [dnd, wildemount, tdp]
 comments: true
 --- 
