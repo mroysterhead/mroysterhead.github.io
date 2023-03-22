@@ -3,7 +3,7 @@ layout: post
 title: Chapter Two Locationss
 subtitle: Key Locations
 thumbnail-img:
-tags: [dnd, wildemount, Chapter 2, locations, Saloon, Balenport]
+tags: [dnd, wildemount, Chapter 2, tdp, locations, Saloon, Balenport]
 comments: true
 --- 
  

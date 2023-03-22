@@ -3,7 +3,7 @@ layout: post
 title: Chapter Two NPC Dossier
 subtitle: Key Characters
 thumbnail-img:
-tags: [dnd, wildemount, Chapter 2, NPC]
+tags: [dnd, wildemount, Chapter 2, tdp, NPC]
 comments: true
 --- 
  
