@@ -5,6 +5,8 @@ layout: null
 @import url("pygment_highlights.css");
 @import url('https://fonts.googleapis.com/css2?family=Fasthand&display=swap');
 @import url('https://fonts.googleapis.com/css?family=Homemade+Apple&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=MedievalSharp&display=swap');
+
 
 
 /* --- General --- */
@@ -31,7 +33,7 @@ p {
   margin: 1.875rem 0;
 }
 h1,h2,h3,h4,h5,h6 {
-  font-family: 'Homemade Apple', cursive, 'Open Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif;
+  font-family: 'MedievalSharp', cursive, 'Homemade Apple', cursive, sans-serif;
   font-weight: 800;
   line-height: 1.1;
 }
