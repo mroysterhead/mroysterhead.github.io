@@ -11,7 +11,7 @@ html {
 }
 
 body {
-  font-family: 'Lora', 'Times New Roman', serif;
+  font-family: 'Fasthand', cursive;
   font-size: 1.125rem;
   color: {{ site.text-col | default: "#e8e8e8" }};
   position: relative;
@@ -22,6 +22,7 @@ body {
   {% endif %}
   overflow-wrap: break-word;
 }
+
 p {
   line-height: 1.5;
   margin: 1.875rem 0;
