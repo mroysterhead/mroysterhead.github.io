@@ -492,8 +492,9 @@ footer .footer-custom-content {
   font-size: 1.125rem;
   font-style: italic;
   margin: 0 0 0.625rem;
-  font-family: 'Lora', 'Times New Roman', serif;
+  font-family: 'Cinzel', serif;
 }
+
 .post-heading .post-meta {
   display: inline-block;
 }
@@ -569,7 +570,7 @@ footer .footer-custom-content {
 /* --- Tags --- */
 
 .blog-tags {
-  font-family: 'Open Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif;
+  font-family: 'Cinzel', serif;
   font-size: 0.9375rem;
   margin: 1.875rem 0;
 }
@@ -616,8 +617,9 @@ footer .footer-custom-content {
 }
 
 #full-tags-list {
-  font-family: 'Open Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif;
+  font-family: 'Cinzel', serif;
 }
+
 
 #full-tags-list .tag-entry {
   margin: 0 0 0.9375rem 1.5625rem;
@@ -687,13 +689,14 @@ nav.top-nav-short-permanent ~ header > .intro-header.big-img {
 }
 .intro-header .page-heading .page-subheading,
 .intro-header .post-heading .post-subheading {
+  font-family: 'Cinzel', serif;
   font-size: 1.6875rem;
   line-height: 1.1;
   display: block;
-  font-family: 'Open Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif;
   font-weight: 300;
   margin: 0.625rem 0 0;
 }
+
 .intro-header .post-heading .post-subheading {
   margin-bottom: 1.25rem;
 }
@@ -715,11 +718,12 @@ nav.top-nav-short-permanent ~ header > .intro-header.big-img {
   padding: 0.3125rem 0.625rem;
   font-size: 0.6875rem;
   color: #EEE;
-  font-family: 'Open Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif;
+  font-family: 'Cinzel', serif;
   right: 0;
   bottom: 0;
   display: none;
 }
+
 @media (min-width: 1200px) {
   .intro-header {
     margin-top: 8.125rem;
@@ -807,7 +811,7 @@ nav.top-nav-short-permanent ~ header > .intro-header.big-img {
 }
 
 .pagination .page-item .page-link {
-  font-family: 'Open Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif;
+  font-family: 'Cinzel', cursive;
   text-transform: uppercase;
   font-size: 0.875rem;
   font-weight: 800;
@@ -817,6 +821,7 @@ nav.top-nav-short-permanent ~ header > .intro-header.big-img {
   border-radius: 0;
   color: {{ site.text-col | default: "#ffffff" }};
 }
+
 @media (min-width: 768px) {
   .pagination .page-item .page-link {
     padding: 0.9375rem 1.5625rem;
