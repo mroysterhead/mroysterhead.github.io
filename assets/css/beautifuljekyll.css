@@ -14,7 +14,7 @@ html {
 }
 
 body {
-  font-family: 'Fasthand', cursive;
+  font-family: 'Homemade Apple', cursive;
   font-size: 1.125rem;
   color: {{ site.text-col | default: "#e8e8e8" }};
   position: relative;
