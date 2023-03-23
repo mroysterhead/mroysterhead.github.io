@@ -37,3 +37,13 @@ Just outside Balenport, Foren, Eiselcross, Wildemounts
  <img src="https://i.imgur.com/siyb3bx.png" width="50%" height="50%">
 
 Existing across all time and timelines the Rite of Aegis has primarily been an organization dedicated to cataloging the secrets at the corners of reality and existence.  Every critical detail, every observation, every item encountered, foe defeated, and possibility explored is cataloged by the Rite of Aegis in the Saloon Library.  The party has full access to this wealth of knowledge in their downtime and can use it to try to make sense of any of the strange, confusing, or novel aspects of the strands they visit.  The Library itself is a critical resource and should be leveraged wherever possible.
+
+## The Great Tree:
+ <img src="https://i.imgur.com/9cJX2tV.png" width="50%" height="50%">
+
+
+## The Deep Forest:
+ <img src="https://i.imgur.com/d52Cguo.png" width="50%" height="50%">
+
+## The Grove:
+ <img src="https://i.imgur.com/NWCpQZI.png" width="50%" height="50%">
