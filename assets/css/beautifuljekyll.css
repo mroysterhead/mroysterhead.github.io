@@ -18,7 +18,7 @@ html {
 }
 
 body {
-  font-family: 'Homemade Apple', cursive;
+  font-family: 'Fondamento', cursive;
   font-size: 1.125rem;
   color: {{ site.text-col | default: "#e8e8e8" }};
   position: relative;
@@ -34,11 +34,13 @@ p {
   line-height: 1.5;
   margin: 1.875rem 0;
 }
+
 h1,h2,h3,h4,h5,h6 {
-  font-family: 'MedievalSharp', cursive, 'Homemade Apple', cursive, sans-serif;
+  font-family: 'Fondamento', cursive, 'MedievalSharp', cursive, sans-serif;
   font-weight: 800;
   line-height: 1.1;
 }
+
 
 h1 {
   font-size: 2.25rem;
