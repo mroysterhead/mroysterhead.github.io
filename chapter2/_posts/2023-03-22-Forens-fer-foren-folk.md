@@ -23,6 +23,7 @@ Connolly meets the crew and asks if they'd be interested in another job - 180gp 
 After some miles of walking wherein Connolly explained the history of Foren, its deep magical history, and the affect of the arrival of the Dwendalian Empire - they encountered a Dwin patrol that they swiftly dispatched and Rupert was finally able to free some of the fury he'd been harboring, and they turned into the forest.
 
 After a brief panic about being followed they are set upon by two Guardians - small creatures with the body of a tree and the soul of a sentient creature wielding a club and shield.  <img align="right" src="https://i.imgur.com/wEDPzAn.png" width="50%" height="50%"> At this point they arrive at The Grove and deliver the cargo: some food, and crates full of guns.  As these are distributed they are led by a village elder to the longhouse at the center of town - here they meet Cernunnos.  <img align="right" src="https://i.imgur.com/NWCpQZI.png" width="50%" height="50%">
+
  Cernunnos is an ancient primordial fey god of wild nature, of birth, of death, of the seasons.  He sits motionless, his fingertips and feet growing roots deep into the earth.  Dwimmer kneels before the god and in touching his roots with his knee is granted a vision of his origin - once a part of the Great Tree he was transported deep into the forest and took root there.
 <img align="right" src="https://i.imgur.com/Pn5EQzV.png" width="50%" height="50%">
 
