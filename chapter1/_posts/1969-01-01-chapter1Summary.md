@@ -4,14 +4,42 @@ title: Chapter One
 subtitle: Frigid Woe
 #gh-repo: daattali/beautiful-jekyll
 #gh-badge: [star, fork, follow]
-thumbnail-img: https://i.imgur.com/d8ajKpj.jpg
-tags: [DnD]
+thumbnail-img: 
 comments: true
 --- 
 
+Todo:
+
 # Summary
 
+-intro/setup
+- mystery at Palebank
+- voyage north
+- shipwreck
+- Rhemorhaz
+- hints of madness 
+- Srinlya 
+- Expedition 
+- Drake attack
+- cabin fever
+- Fey Friend Shortcut
+- Ice Gulch
+- Brain Worms
+- Aeor outskirks
+- The White Witch
+- Beautiful inventions
+- Spelunking into the ruins
+- <SCENE MISSING>
+- Salsvault 
+- Killing an Old God
+
 # Setting
+- The biting North
+- The regional crime families
+- Uthodurn
+- Foren
+- Aeor
+- Aeormatons 
 
 # Players
 
@@ -20,5 +48,3 @@ comments: true
 # NPCs
 
 
-
-![dutch](https://i.imgur.com/d8ajKpj.jpg){: .mx-auto.d-block :}
