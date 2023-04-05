@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Foren's Fer Foren Folk
+title: The Find Out Phase
 subtitle: 
 thumbnail-img: https://st3.depositphotos.com/4903483/17887/i/600/depositphotos_178871132-stock-photo-roleplay-game-with-dragons-in.jpg
 tags: [dnd, wildemount, Chapter 2, tdp]

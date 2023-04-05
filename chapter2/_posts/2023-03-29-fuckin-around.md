@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Foren's Fer Foren Folk
+title: Fuckin around in Foren
 subtitle: 
 thumbnail-img: https://cdn.discordapp.com/attachments/1090253405131382934/1093155283712364665/qtd2avR.png
 tags: [dnd, wildemount, Chapter 2, tdp]
