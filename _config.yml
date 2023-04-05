@@ -6,34 +6,32 @@
 # --- Required options --- #
 
 # Name of website
-title: Tim
+title: Rite of Aegis
+subtitle: Season II
 
 # Your name to show in the footer
-author: tim
+author: ItemForge
 
 # --- List of links in the navigation bar --- #
 
 navbar-links:
-  my stuff:
-    - food stuff: "food"
-    - work stuff: "work"
-    - technotes: "notes"
-  stuff i care about:
-    - Yes On Ranked Voting: "https://www.fairvote.org/rcvbenefits"
-    - The Dark Side of Automation: "https://points.datasociety.net/the-robots-are-just-automated-management-tools-b9bf28c4434"
-    - The Social Dilemma: "https://www.thesocialdilemma.com/"
-    - Facebook is dangerous: "https://stallman.org/facebook.html"
-    - No Private Security Forces at Polling Places: "https://act.winwithoutwar.org/act/private-security-election"
-  stuff i like: 
-    - The Forms of Freedom: "https://www.youtube.com/watch?v=FqPwr-cVz_M"
-    - Puppet Roles and Profiles: "http://garylarizza.com/blog/2014/02/17/puppet-workflow-part-2/"
+  Who's Who of Season Two: "https://www.riteofaegis.world/Chapter2-NPC-Dossier/"
+  Travel Guide: "https://www.riteofaegis.world/Chapter2-Locations/"
+  Chapters:
+    - Chapter One: "chapter1"
+    - Chapter Two: "chapter2"
+  External Links:
+    - 5e Tools: "https://5e.tools/"
+    - The Explorers Guide to Wildemount: "https://5e.tools/book.html#egw"
+    - Owlbear: "https://www.owlbear.app/room/H9P5SOmLZSAz/TheMoldyGage"
+
 
 
 # --- Logo --- #
 
 # Image to show in the navigation bar - works best with a square image
 # Remove this parameter if you don't want an image in the navbar
-avatar: "/assets/img/avatar-icon.png"
+avatar: "/assets/img/me.jpeg"
 
 # By default, the image is cut into a circle. You can disable this behaviour by setting 'round-avatar: false'
 round-avatar: true
@@ -48,16 +46,15 @@ round-avatar: true
 # Select the social network links that you want to show in the footer.
 # Uncomment the links you want to show and add your information to each one.
 social-network-links:
-#  email: "someone@example.com"
+# email: "tim@timlawrence.org"
 #  rss: true  # remove this line if you don't want to show an RSS link at the bottom
 #  facebook: deanattali
-#  github: daattali
-#  twitter: daattali
+  github: itemforge
+#  twitter: Mr_Oysterhead
 #  patreon: DeanAttali
 #  youtube: c/daattali
 #  medium: yourname
 #  reddit: yourname
-#  linkedin: daattali
 #  xing: yourname
 #  stackoverflow: "3943160/daattali"
 #  snapchat: deanat78
@@ -69,7 +66,6 @@ social-network-links:
 #  yelp: yourname
 #  telegram: yourname
 #  calendly: yourname
-#  mastodon: instance.url/@username
 #  ORCID: your ORCID ID
 #  google-scholar: your google scholar
 #  discord: invite/invite_code or users/userid 
@@ -78,7 +74,7 @@ social-network-links:
 
 # If you want your website to generate an RSS feed, provide a description
 # The URL for the feed will be https://<your_website>/feed.xml
-rss-description: This website is a virtual proof that I'm awesome
+# rss-description: This website is a virtual proof that I'm awesome
 
 # --- General options --- #
 
@@ -91,7 +87,7 @@ share-links-active:
 
 # How to display the link to your website in the footer
 # Remove this if you don't want a link in the footer
-url-pretty: "timlawrence.org"
+url-pretty: "home"
 
 # Excerpt word length - Truncate the excerpt of each post on the feed page to the specified number of words
 excerpt_length: 50
@@ -120,7 +116,7 @@ navbar-text-col: "#403e3e"
 navbar-border-col: "#DDDDDD"
 page-col: "#404040"
 text-col: "#FFFFFF"
-link-col: "#404040"
+link-col: "#0085A1"
 hover-col: "#0085A1"
 footer-col: "#EAEAEA"
 footer-text-col: "#A9A9A9"
