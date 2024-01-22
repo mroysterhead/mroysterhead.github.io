@@ -15,8 +15,6 @@ Passion for Technology and Information Systems
   * Developing and documenting corporate business continuity and disaster recovery plans and procedures. 
 
 
-
-
 # Experience
 ---
 
@@ -29,9 +27,11 @@ Site Reliability Engineer, Metrics team, Oct 2019 - May 2022
 
 **Cloud Platforms team (formerly kubernetes team)**
 
-- Led the design and implementation of highly scalable K8s clusters to support our global development teams, including a new GKE cluster in parity in North America and Europe for reduced latency, improved performance, and improvement in developer velocity. 
-- Successfully migrated legacy Kibana logging to native GCL cloud logging via a new Tremor pipeline, bypassing Kafka and achieving $90,000 annual cost savings through reduced footprint.
+- Led the design and implementation of highly scalable K8s clusters using Terraform to support our global development teams, including a new GKE cluster in parity in North America and Europe for reduced latency, improved performance, and improvement in developer velocity. 
+- Thoroughly documented the procedure and requirements providing a step by step guide for future cluster builds to alleviate the burden in posterity. 
+- Saved the company $90,000 annually by streamlining log processing and migrating legacy Kibana to native GCL cloud logging using OSS Tremor.
 - Streamlined log processing and increased control over sampling with the new pipeline, enhancing log visibility and facilitating granular rate adjustments.
+- Identified and improved blind spots in kubernetes oberservability adding new log based metrics and alerts.
 
 
 **Metrics Platform Engineering**
