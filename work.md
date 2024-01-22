@@ -27,7 +27,7 @@ Cloud Engineer, Kubernetes team, June 2022 - Current
 
 Site Reliability Engineer, Metrics team, Oct 2019 - May 2022
 
-**Compute Platforms (formerly Kubernetes team)**
+**Cloud Platforms team (formerly kubernetes team)**
 
 - Led the design and implementation of highly scalable K8s clusters to support our global development teams, including a new GKE cluster in parity in North America and Europe for reduced latency, improved performance, and improvement in developer velocity. 
 - Successfully migrated legacy Kibana logging to native GCL cloud logging via a new Tremor pipeline, bypassing Kafka and achieving $90,000 annual cost savings through reduced footprint.
