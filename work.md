@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Tim Lawrence
-subtitle: Cloud Engineer
+subtitle: Cloud Infrastructure | Kubernetes | GCP
 ---
 
 Passion for Technology and Information Systems
