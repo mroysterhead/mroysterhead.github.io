@@ -33,6 +33,11 @@ Site Reliability Engineer, Metrics team, Oct 2019 - May 2022
 
 Kubernetes builds upon a decade and a half of experience at Google running production workloads at scale using a system called Borg, combined with best-of-breed ideas and practices from the community.
 
+- Led the design and implementation of highly scalable K8s clusters to support our global development teams, including a new GKE cluster in parity in North America and Europe for reduced latency, improved performance, and improvement in developer velocity. 
+- Successfully migrated legacy Kibana logging to native GCL cloud logging via a new Tremor pipeline, bypassing Kafka and achieving $90,000 annual cost savings through reduced footprint.
+- Streamlined log processing and increased control over sampling with the new pipeline, enhancing log visibility and facilitating granular rate adjustments.
+
+
 **Metrics Platform Engineering**
 
 Supported maintaining a world class metrics stack at scale
