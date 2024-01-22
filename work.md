@@ -50,7 +50,7 @@ Supported maintaining a world class metrics stack at scale
 
 * Designing a modern, high volume -and- cardinality tolerant, autonomously scalable and highly available, metrics and observability platform leveraging open standards and protocols.
 
-* Migrated existing influxDB stack to Datadog, translating syntax and query language to seamlessly allowing users to continue using their existing dashboards and monitoring without disruption. 
+* Migrated existing influxDB stack to Datadog, translating syntax and query language to seamlessly allow users to continue using their existing dashboards and monitoring without disruption. 
 
 *Some insights from this migration:*
 
