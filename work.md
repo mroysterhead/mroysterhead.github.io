@@ -28,9 +28,13 @@ Site Reliability Engineer, Metrics team, Oct 2019 - May 2022
 **Cloud Platforms team (formerly kubernetes team)**
 
 - Led the design and implementation of highly scalable K8s clusters using Terraform to support our global development teams, including a new GKE cluster in parity in North America and Europe for reduced latency, improved performance, and improvement in developer velocity. 
-- Thoroughly documented the procedure and requirements providing a step by step guide for future cluster builds to alleviate the burden in posterity. 
+
+- Thoroughly documented the procedure and requirements providing a step by step guide for future cluster builds to alleviate the burden in posterity.
+ 
 - Saved the company $90,000 annually by streamlining log processing and migrating legacy Kibana to native GCL cloud logging using OSS Tremor.
+
 - Streamlined log processing and increased control over sampling with the new pipeline, enhancing log visibility and facilitating granular rate adjustments.
+
 - Identified and improved blind spots in kubernetes oberservability adding new log based metrics and alerts.
 
 
@@ -61,6 +65,7 @@ Supported maintaining a world class metrics stack at scale
 - Automated analysis of existing dashboards with Slack bot support saved  2000+ engineering hours.
 
 - Created and Monitored training sessions and materials to quickly identify and resolve user issues improving user support turn around from an average upwards of an hour down to five minutes, over a three month period. 
+
 ___
 
 ## MUTUAL AID DISASTER RELIEF
