@@ -31,3 +31,6 @@ comments: false
 - **Aftermath**  
   - Left the guy behind for **Rellik** to cannibalize.  
     - **Tyler** wasn't present, so this has yet to be litigated.
+
+- **Logistics**  
+  - **Roland** looks for something to transport the loot and finds a handcart with two wheels, ideal for moving everything back.
