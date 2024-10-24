@@ -7,7 +7,7 @@ subtitle: Oct. 23 2024
 thumbnail-img: https://i.imgur.com/O4HSUQu.png
 tags: [DnD]
 comments: false
---- 
+---
 
 # Session 8 - 10/23/24
 
@@ -38,4 +38,8 @@ comments: false
 - We return to **The Roost**.
   - Find Mandy having breakfast and ask about payment.
     - 30GP + 10GP bonus for capturing Kissinger alive. **6G50s per person**.
-    - She comments on Roland's newly acquired sword and advises about a blacksmith who could fine-tune it. She demonstrates some flourishes of the blade before returning it.
+    - She comments on Roland's newly acquired sword and advises about a blacksmith who could fine-tune it. She demonstrates some flourishes of the blade before returning it skillfully with a wink. 
+  - Roland buys himself a hearty meal and turns in. The rest of the party does as well shortly after.
+- The next day Roland leads us back towards the academy with our wheelbarrow alchemist crate. 
+  - Professor Fizzbang is the SME for alchemy - Roland inquires about the crate contents, requesting an appraisal for return. 
+  - Roland barters for a scroll of Reduce Enlarge.
