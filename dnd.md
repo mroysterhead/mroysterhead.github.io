@@ -4,4 +4,7 @@ title: "DND Notes"
 permalink: /dnd/
 ---
 
-DND notes section
+{% for post in site.dnd %}
+  <h2><a href="{{ post.url }}">{{ post.title }}</a></h2>
+  <p>{{ post.excerpt }}</p>
+{% endfor %}
