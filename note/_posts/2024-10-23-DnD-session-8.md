@@ -4,7 +4,7 @@ title: D&D Session 8
 subtitle: Oct. 23 2024
 #gh-repo: daattali/beautiful-jekyll
 #gh-badge: [star, fork, follow]
-#thumbnail-img: https://i.imgur.com/SV9nZpY.png
+thumbnail-img: https://i.imgur.com/O4HSUQu.png
 tags: [DnD]
 comments: false
 --- 
