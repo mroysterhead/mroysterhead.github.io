@@ -1,9 +1,8 @@
 ---
-layout: Dungeons & Dragons
-title: Season 5
-subtitle: Apoth - North East Coast
+layout: dnd
+title: "Season 5"
+subtitle: "Apoth - North East Coast"
 ---
-
 
 ## Player Characters (PCs)
 
@@ -13,28 +12,25 @@ subtitle: Apoth - North East Coast
 
 - **Ezekiel Relik** (Played by Tyler)  
   - **Role**: Woodsman, Crazy  
-  - **Habits**: [REDACTED]
+  - **Habits**: [REDACTED]  
   - **Personality**: Sounds like Christopher Walken  
 
 - **Father Pyrlig (Ellix Sandor)** (Played by Josh)  
-  - **Role**: Priest
+  - **Role**: Priest  
   - **Habits**: Gambling  
 
 - **Grundle** (Played by Brett)  
   - **Race**: Tiefling  
   - **Appearance**: Looks like Nick Cage  
   - **Background**: From the Jersey Slums  
-  - **Role**: Spellslinger, Thug, Schemer. 
+  - **Role**: Spellslinger, Thug, Schemer  
 
 - **Roland** (Played by Dave)  
   - **Role**: Bard  
   - **Instrument**: Lute, Bagpipes  
 
 - **Gravyn** (Played by Joel)  
-  - **Role**: Highwayman, Schemer   
-
-
----
+  - **Role**: Highwayman, Schemer  
 
 ## Non-Player Characters (NPCs)
 
@@ -47,8 +43,6 @@ subtitle: Apoth - North East Coast
 - **Mandy**  
   - **Role**: Boss of The Roost  
 
----
-
 ## Organizations
 
 - **East Bay Trading Company**  
@@ -58,8 +52,6 @@ subtitle: Apoth - North East Coast
 - **The Rangers**  
 - **The Academy**  
 - **Red Hand Goblins**  
-
----
 
 ## Enemies
 
