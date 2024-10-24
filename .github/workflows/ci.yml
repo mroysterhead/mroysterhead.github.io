@@ -6,8 +6,15 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v2
-      - name: Update RubyGems
-        run: gem update --system
+      - name: Set up Ruby using rvm
+        run: |
+          sudo apt-get update
+          sudo apt-get install -y curl gpg
+          curl -sSL https://get.rvm.io | bash -s stable
+          source ~/.rvm/scripts/rvm
+          rvm install 2.7
+          rvm use 2.7 --default
+          gem update --system
       - name: Build the site in the jekyll/builder container
         run: |
           export JEKYLL_VERSION=3.8
