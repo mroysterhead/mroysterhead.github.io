@@ -1,21 +1,20 @@
 ---
-layout: page
+layout: default
 ---
 
-{{ content }}
-
-{% assign posts = site.dnd %}
-
-<!-- role="list" needed so that `list-style: none` in Safari doesn't remove the list semantics -->
-<ul class="posts-list list-unstyled" role="list">
-  {% for post in posts %}
-  <li class="post-preview">
-    <article>
-      <a href="{{ post.url | absolute_url }}">
-        <h2>{{ post.title }}</h2>
-        <p>{{ post.excerpt }}</p>
-      </a>
-    </article>
-  </li>
-  {% endfor %}
-</ul>
+<div class="dnd-posts">
+  <h1>{{ page.title }}</h1>
+  <ul class="posts-list list-unstyled" role="list">
+    {% assign posts = site.dnd %}
+    {% for post in posts %}
+    <li class="post-preview">
+      <article>
+        <a href="{{ post.url | absolute_url }}">
+          <h2>{{ post.title }}</h2>
+          <p>{{ post.excerpt }}</p>
+        </a>
+      </article>
+    </li>
+    {% endfor %}
+  </ul>
+</div>

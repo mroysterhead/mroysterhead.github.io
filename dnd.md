@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: dnd
 title: "DND Notes"
 permalink: /dnd/
 ---
